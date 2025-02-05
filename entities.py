@@ -7,18 +7,19 @@ import io
 import glob
 
 import datetime
+#from datetime import date, timedelta, datetime, timezone
 from dateutil import parser
 
 # pip3 install spacy
-# python3 -m spacy download de_core_news_md
-#pip3 install textblob_de
+# python3 -m spacy download en_core_web_md
+#pip3 install textblob
 
 import nltk
 import spacy
-import de_core_news_md
-from textblob_de import TextBlobDE
+import en_core_web_md
+from textblob import TextBlob
 
-nlp = de_core_news_md.load()
+nlp = en_core_web_md.load()
 nltk.download('punkt_tab')
 nltk.download('punkt')
 
@@ -71,7 +72,7 @@ for index, column in newsDf.iterrows():
         print(i)
     quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
     #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlobDE(quote)
+    blob = TextBlob(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
     newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
     try:
@@ -151,7 +152,7 @@ for index, column in objNewsDF.iterrows():
     quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
     lang = column.language 
     #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlobDE(quote)
+    blob = TextBlob(quote)
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
