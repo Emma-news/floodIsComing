@@ -22,7 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding death',en,Impacts,#a89216,#87830f,3,0.3275930154224715
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.3180403334741067
 'deluge',en,Hazard,#4287f5,#315fa8,1,0.2772091405764013
-'flooding floods',en,Causes,#679e2c,#7db344,3,0.16452362491326
-'flooding deluge',en,Causes,#679e2c,#61b00c,2,0.11989273512514
+'flooding mudslide',en,Impacts,#a89216,#87831f,3,0.3275930154224715
+'flooding disruption',en,Impacts,#b8a216,#bfba22,2,0.4155851347402469
+'flooding storm',en,Causes,#679e2c,#61b00c,2,0.11989273512514
 'floods',en,Hazard,#4287f5,#638ed4,3,0.05
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0058
