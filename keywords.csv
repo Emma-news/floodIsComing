@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.4454134224134631
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.4449043482534257
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.4446858420007834
-'flooding victims',en,Impacts,#a89216,#87830f,2,0.4435812630386362
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.4385993971289286
 'flooding house',en,Impacts,#a89216,#a89216,3,0.4315616209528408
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.4222349605968487
 'flooding disruption',en,Impacts,#b8a216,#bfba22,2,0.4155851347402469
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.4109444277362183
+'flooding victims',en,Impacts,#a89216,#87830f,3,0.38679666858284073
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.3845025130263682
-'flooding health',en,Impacts,#a89216,#bfba22,2,0.36835504340248304
+'flooding health',en,Impacts,#a89216,#bfba22,2,0.368355043402483
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.3677481295292099
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.3599155932721066
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.3482284396113637
