@@ -1,5 +1,33 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Datuk Seri,Datuk Seri,PERSON,0.175,0.275,en,2
+Donald Trump,Donald Trump,PERSON,0.20833333333333331,0.3333333333333333,en,4
+Kwara State,Kwara State,PERSON,0.049999999999999996,0.05833333333333333,en,4
+Datuk Seri,Datuk Seri,PERSON,0.15,0.3111111111111111,en,3
 Nanta Linggi,Nanta Linggi,PERSON,0.175,0.275,en,2
+Oscar Ling,Oscar Ling,PERSON,0.1284722222222222,0.35444444444444445,en,2
+SecDef Hegseth,SecDef Hegseth,PERSON,0.0925,0.42500000000000004,en,2
 Mukim Nangoh,Mukim Nangoh,PERSON,0.1775,0.56125,en,2
+Datuk Seri Fadillah Yusof,Datuk Seri Fadillah Yusof,PERSON,0.175,0.275,en,2
+Ahmed Saba,Ahmed Saba,PERSON,0.09999999999999999,0.11666666666666665,en,2
+Peggy Noonan,Peggy Noonan,PERSON,0.0,0.03333333333333333,en,2
+Donald Trumps,Donald Trumps,PERSON,0.19444444444444442,0.22777777777777775,en,2
+Wan Kamarudin,Wan Kamarudin,PERSON,-0.2,0.15000000000000002,en,2
+Pete Hegseth,Pete Hegseth,PERSON,0.32999999999999996,0.5750000000000001,en,2
+Walter Reed,Walter Reed,PERSON,0.7,0.9,en,1
+Sibu MP,Sibu MP,PERSON,0.0,0.25,en,1
+John Duric,John Duric,PERSON,0.0,0.0,en,1
+Jeffrey Kitingan,Jeffrey Kitingan,PERSON,0.09999999999999999,0.3833333333333333,en,1
+Datuk Seri Dr,Datuk Seri Dr,PERSON,0.22499999999999998,0.4666666666666667,en,1
+Matt Wreden,Matt Wreden,PERSON,-0.125,0.375,en,1
+Wan Ahmad,Wan Ahmad,PERSON,-0.2,0.15000000000000002,en,1
+Carl Smith,Carl Smith,PERSON,0.0,0.0,en,1
+Monty Don,Monty Don,PERSON,0.0,0.5,en,1
+Ronald Reagan,Ronald Reagan,PERSON,0.0,0.0,en,1
 Datuk Shahel,Datuk Shahel,PERSON,0.0,0.0,en,1
+Hurricanes Helene,Hurricanes Helene,PERSON,0.0031250000000000028,0.28645833333333337,en,1
+Jasmine Ketibuah,Jasmine Ketibuah,PERSON,0.28125,0.5625,en,1
+Ashley Manzano,Ashley Manzano,PERSON,0.0,0.05,en,1
+Emma Hardy,Emma Hardy,PERSON,0.008348794063079772,0.4206864564007421,en,1
+Josh Simons,Josh Simons,PERSON,0.008348794063079772,0.4206864564007421,en,1
+KUALA NERUS,KUALA NERUS,PERSON,0.016666666666666663,0.4055555555555555,en,1
+Ganu Kite,Ganu Kite,PERSON,0.02500000000000001,0.4416666666666667,en,1
+Wan Ahmad s,Wan Ahmad s,PERSON,-0.2,0.15000000000000002,en,1
