@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.4259607764179232
-'flooding house',en,Impacts,#a89216,#a89216,3,0.4091351328099146
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.3869979425595893
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.3842884957809743
+'flooding house',en,Impacts,#a89216,#a89216,3,0.3717778915981048
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.3677481295292099
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.356528723529934
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.3558538451292501
