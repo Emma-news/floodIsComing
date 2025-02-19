@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.3661545964138281
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.3611845704415821
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.3558538451292501
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.3514910392133996
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.3477646137819262
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.3442046207664333
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.3410271928203331
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.33151222552318244
 'flooding death',en,Impacts,#a89216,#87830f,3,0.3275930154224715
 'flooding health',en,Impacts,#a89216,#bfba22,2,0.3271496559830196
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.3216386586368075
