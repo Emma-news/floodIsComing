@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.2937434956415974
 'deluge',en,Hazard,#4287f5,#315fa8,2,0.2860396199444865
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.2797696203348541
-'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.279277572222354
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.2715344184529907
 'flooding mudslide',en,Impacts,#a89216,#87831f,2,0.2621865108927356
+'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.2418877663890009
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.2394212628414042
 'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.2266170595099639
 'flooding storm',en,Causes,#679e2c,#61b00c,2,0.11989273512514
