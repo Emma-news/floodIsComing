@@ -1,217 +1,397 @@
 ,phrase,label,sentiment,subjectivity,language,count
-thousands,thousands,CARDINAL,,,en,16
-Wednesday,Wednesday,DATE,,,en,15
-one,one,CARDINAL,,,en,14
-three,three,CARDINAL,,,en,13
+winter,winter,DATE,,,en,38
+Monday,Monday,DATE,,,en,26
+the weekend,the weekend,DATE,,,en,25
+Sunday,Sunday,DATE,,,en,23
+thousands,thousands,CARDINAL,,,en,21
+Wednesday,Wednesday,DATE,,,en,19
+one,one,CARDINAL,,,en,18
+three,three,CARDINAL,,,en,16
+Saturday,Saturday,DATE,,,en,16
+Thursday,Thursday,DATE,,,en,16
+Hurricane Helene,Hurricane Helene,EVENT,,,en,15
+this week,this week,DATE,,,en,14
+afternoon,afternoon,TIME,,,en,13
 first,first,ORDINAL,,,en,13
-Thursday,Thursday,DATE,,,en,13
-Hurricane Helene,Hurricane Helene,EVENT,,,en,13
-Sunday,Sunday,DATE,,,en,12
-Tuesday,Tuesday,DATE,,,en,11
-Monday,Monday,DATE,,,en,10
+2025,2025,CARDINAL,,,en,13
+Tuesday,Tuesday,DATE,,,en,12
+nine,nine,CARDINAL,,,en,11
+at least 10,at least 10,CARDINAL,,,en,10
+eight,eight,CARDINAL,,,en,10
+two,two,CARDINAL,,,en,10
+2024,2024,DATE,,,en,10
+At least nine,At least nine,CARDINAL,,,en,9
 Friday,Friday,DATE,,,en,9
-2024,2024,DATE,,,en,8
-two,two,CARDINAL,,,en,8
+this morning,this morning,TIME,,,en,7
+at least nine,at least nine,CARDINAL,,,en,7
+weekend,weekend,DATE,,,en,7
 One,One,CARDINAL,,,en,7
-this week,this week,DATE,,,en,6
 this weekend,this weekend,DATE,,,en,6
-2025,2025,CARDINAL,,,en,6
 21,21,CARDINAL,,,en,6
-Saturday,Saturday,DATE,,,en,6
-six,six,CARDINAL,,,en,5
-Republican,Republican,NORP,,,en,5
-the coming days,the coming days,DATE,,,en,5
+At least 10,At least 10,CARDINAL,,,en,6
+Rockies,Rockies,NORP,-0.30873015873015874,0.9071428571428571,en,6
+next week,next week,DATE,,,en,6
 Indonesian,Indonesian,NORP,,,en,5
 Six,Six,CARDINAL,,,en,5
-four,four,CARDINAL,,,en,4
-this year,this year,DATE,,,en,4
-winter,winter,DATE,,,en,4
-Australian,Australian,NORP,,,en,4
-American,American,NORP,,,en,4
-morning,morning,TIME,,,en,4
-the weekend,the weekend,DATE,,,en,4
+four,four,CARDINAL,,,en,5
+six,six,CARDINAL,,,en,5
+hundreds,hundreds,CARDINAL,,,en,5
+7-year-old,7-year-old,DATE,,,en,5
+morning,morning,TIME,,,en,5
+today,today,DATE,,,en,5
+another day,another day,DATE,,,en,5
+Thousands,Thousands,CARDINAL,,,en,5
+Republican,Republican,NORP,,,en,5
+the coming days,the coming days,DATE,,,en,5
+American,American,NORP,,,en,5
+tonight,tonight,TIME,,,en,5
+9,9,CARDINAL,,,en,4
 season,season,DATE,,,en,4
-Two weeks,Two weeks,DATE,,,en,4
-another year,another year,DATE,,,en,4
+evening,evening,TIME,,,en,4
 mid-Atlantic,mid-Atlantic,DATE,,,en,4
-afternoon,afternoon,TIME,,,en,4
-second,second,ORDINAL,,,en,3
-"15,009","15,009",CARDINAL,,,en,3
-five,five,CARDINAL,,,en,3
-today,today,DATE,,,en,3
-another day,another day,DATE,,,en,3
-Sunday morning,Sunday morning,TIME,,,en,3
+this year,this year,DATE,,,en,4
+February,February,DATE,,,en,4
+month-long holiday,month-long holiday,DATE,,,en,4
+Californians,Californians,NORP,,,en,4
+Australian,Australian,NORP,,,en,4
+Sunday morning,Sunday morning,TIME,,,en,4
+Two weeks,Two weeks,DATE,,,en,4
+2023,2023,CARDINAL,,,en,4
+11,11,CARDINAL,,,en,4
+millions,millions,CARDINAL,,,en,4
+another year,another year,DATE,,,en,4
 Bintulu,Bintulu,NORP,,,en,3
-Americans,Americans,NORP,,,en,3
-hundreds,hundreds,CARDINAL,,,en,3
-42,42,CARDINAL,,,en,3
-2023,2023,CARDINAL,,,en,3
-Palisades,Palisades,FAC,,,en,3
-next week,next week,DATE,,,en,3
-the last two weeks,the last two weeks,DATE,,,en,3
-8pm,8pm,TIME,,,en,3
-last month's,last month's,DATE,,,en,3
-tens of thousands,tens of thousands,CARDINAL,,,en,3
-last month’s,last month’s,DATE,,,en,3
-Californians,Californians,NORP,,,en,3
 20,20,CARDINAL,,,en,3
-tonight,tonight,TIME,,,en,3
-days,days,DATE,,,en,2
-last year,last year,DATE,,,en,2
-14,14,CARDINAL,,,en,2
-a 19th century,a 19th century,DATE,,,en,2
-month-long holiday,month-long holiday,DATE,,,en,2
-next Monday,next Monday,DATE,,,en,2
-September 2023,September 2023,DATE,,,en,2
-like wildfire,like wildfire,DATE,,,en,2
+last month’s,last month’s,DATE,,,en,3
+summer,summer,DATE,,,en,3
+at least one,at least one,CARDINAL,,,en,3
+Americans,Americans,NORP,,,en,3
+last month's,last month's,DATE,,,en,3
+the last two weeks,the last two weeks,DATE,,,en,3
+the past week,the past week,DATE,,,en,3
+At least 9,At least 9,CARDINAL,,,en,3
+"1,000","1,000",CARDINAL,,,en,3
+March 1,March 1,DATE,,,en,3
+Palisades,Palisades,FAC,,,en,3
+Winter,Winter,DATE,,,en,3
+Today,Today,DATE,,,en,3
+Hundreds,Hundreds,CARDINAL,,,en,3
+days,days,DATE,,,en,3
+second,second,ORDINAL,,,en,3
+42,42,CARDINAL,,,en,3
+15,15,CARDINAL,,,en,3
+"15,009","15,009",CARDINAL,,,en,3
+tens of thousands,tens of thousands,CARDINAL,,,en,3
+At least 8,At least 8,CARDINAL,,,en,3
+8,8,CARDINAL,,,en,3
+at least eight,at least eight,CARDINAL,,,en,3
+five,five,CARDINAL,,,en,3
+seven-year-old,seven-year-old,DATE,,,en,3
+Nine,Nine,CARDINAL,,,en,3
+8pm,8pm,TIME,,,en,3
+Weekend,Weekend,DATE,,,en,3
+years,years,DATE,,,en,3
+8 pm,8 pm,TIME,,,en,2
 February 17,February 17,DATE,,,en,2
-Babar Mahal,Babar Mahal,FAC,,,en,2
-another $500 million,another $500 million,MONEY,,,en,2
-"more than 3,000","more than 3,000",CARDINAL,,,en,2
-Dozens,Dozens,CARDINAL,,,en,2
-late Thursday,late Thursday,DATE,,,en,2
-millions of naira,millions of naira,MONEY,,,en,2
-Three,Three,CARDINAL,,,en,2
-15,15,CARDINAL,,,en,2
-Saturday (Jan 25) morning,Saturday (Jan 25) morning,DATE,,,en,2
-early Friday,early Friday,DATE,,,en,2
-just a month,just a month,DATE,,,en,2
-seven,seven,CARDINAL,,,en,2
+next Monday,next Monday,DATE,,,en,2
+At Least 10,At Least 10,CARDINAL,,,en,2
+Four,Four,CARDINAL,,,en,2
+This week’s,This week’s,DATE,,,en,2
+six inches,six inches,QUANTITY,,,en,2
+5,5,CARDINAL,,,en,2
+the day,the day,DATE,,,en,2
+Democrats,Democrats,NORP,,,en,2
+Jan 30,Jan 30,DATE,,,en,2
+Mexican,Mexican,NORP,,,en,2
 "more than 1,900","more than 1,900",CARDINAL,,,en,2
-evening,evening,TIME,,,en,2
-the Alau Dam,the Alau Dam,FAC,,,en,2
-About 13 million,About 13 million,CARDINAL,,,en,2
-Thousands,Thousands,CARDINAL,,,en,2
+January 20th,January 20th,DATE,,,en,2
+14,14,CARDINAL,,,en,2
+late Thursday,late Thursday,DATE,,,en,2
+early Friday,early Friday,DATE,,,en,2
+Muslim,Muslim,NORP,,,en,2
+a 19th century,a 19th century,DATE,,,en,2
+a few inches,a few inches,QUANTITY,,,en,2
+September 2023,September 2023,DATE,,,en,2
+"more than 3,000","more than 3,000",CARDINAL,,,en,2
+like wildfire,like wildfire,DATE,,,en,2
+seven,seven,CARDINAL,,,en,2
+at least 12,at least 12,CARDINAL,,,en,2
+24.9 percent,24.9 percent,PERCENT,,,en,2
+Babar Mahal,Babar Mahal,FAC,,,en,2
+Czech,Czech,NORP,,,en,2
+at least 29,at least 29,CARDINAL,,,en,2
 Weeks,Weeks,DATE,,,en,2
+another $500 million,another $500 million,MONEY,,,en,2
+sub-zero,sub-zero,CARDINAL,,,en,2
+Interstate 40,Interstate 40,FAC,,,en,2
+late last year,late last year,DATE,,,en,2
+About 13 million,About 13 million,CARDINAL,,,en,2
+dozens,dozens,CARDINAL,,,en,2
+at least 14,at least 14,CARDINAL,,,en,2
+Palisades Fire,Palisades Fire,FAC,,,en,2
+"about 5,000","about 5,000",CARDINAL,,,en,2
+60 years,60 years,DATE,,,en,2
+January,January,DATE,,,en,2
+35,35,CARDINAL,,,en,2
+the Alau Dam,the Alau Dam,FAC,,,en,2
+2008,2008,DATE,,,en,2
+French,French,NORP,,,en,2
+coming days,coming days,DATE,,,en,2
 earlier in the morning,earlier in the morning,TIME,,,en,2
 "17,637","17,637",CARDINAL,,,en,2
-at least 29,at least 29,CARDINAL,,,en,2
-Palisades Fire,Palisades Fire,FAC,,,en,2
-35,35,CARDINAL,,,en,2
-2008,2008,DATE,,,en,2
-spring,spring,DATE,,,en,2
-5,5,CARDINAL,,,en,2
-Four,Four,CARDINAL,,,en,2
-Democrats,Democrats,NORP,,,en,2
-Palestinians,Palestinians,NORP,,,en,2
-summer,summer,DATE,,,en,2
-Jan 30,Jan 30,DATE,,,en,2
-8 pm,8 pm,TIME,,,en,2
-"about 5,000","about 5,000",CARDINAL,,,en,2
-weekend,weekend,DATE,,,en,2
-Today,Today,DATE,,,en,2
-Winter,Winter,DATE,,,en,2
-dozens,dozens,CARDINAL,,,en,2
-March,March,DATE,,,en,2
-Muslim,Muslim,NORP,,,en,2
-This year,This year,DATE,,,en,2
-Annual March,Annual March,DATE,,,en,2
-New Year,New Year,EVENT,,,en,2
-"10,000 Acres","10,000 Acres",QUANTITY,,,en,2
-years,years,DATE,,,en,2
-the rainy season,the rainy season,DATE,,,en,2
-eight,eight,CARDINAL,,,en,2
 the start of the year,the start of the year,DATE,,,en,2
-sub-zero,sub-zero,CARDINAL,,,en,2
-Monday (Jan 20,Monday (Jan 20,DATE,,,en,2
-late last year,late last year,DATE,,,en,2
-89,89,CARDINAL,,,en,2
-Saratok,Saratok,NORP,,,en,2
-January,January,DATE,,,en,2
-this morning,this morning,TIME,,,en,2
-French,French,NORP,,,en,2
-47th,47th,ORDINAL,,,en,2
-Jan. 22,Jan. 22,DATE,,,en,2
+just a month,just a month,DATE,,,en,2
+Seven Years,Seven Years,DATE,,,en,2
+March,March,DATE,,,en,2
+a week,a week,DATE,,,en,2
+Feb. 16,Feb. 16,DATE,,,en,2
+At least eight,At least eight,CARDINAL,,,en,2
+years ago,years ago,DATE,,,en,2
 56%,56%,PERCENT,,,en,2
-34,34,CARDINAL,,,en,2
+Bosnian,Bosnian,NORP,,,en,2
+last year,last year,DATE,,,en,2
+Palestinians,Palestinians,NORP,,,en,2
 recent years,recent years,DATE,,,en,2
-the last 20 years,the last 20 years,DATE,,,en,2
+Monday (Feb 17,Monday (Feb 17,DATE,,,en,2
+Saturday (Jan 25) morning,Saturday (Jan 25) morning,DATE,,,en,2
+the rainy season,the rainy season,DATE,,,en,2
+2025/2026,2025/2026,DATE,,,en,2
+Jan. 22,Jan. 22,DATE,,,en,2
+the first day,the first day,DATE,,,en,2
+36,36,CARDINAL,,,en,2
+10,10,CARDINAL,,,en,2
+34,34,CARDINAL,,,en,2
 123,123,CARDINAL,,,en,2
-24.9 percent,24.9 percent,PERCENT,,,en,2
-the past month,the past month,DATE,,,en,1
-more than a dozen,more than a dozen,CARDINAL,,,en,1
+47th,47th,ORDINAL,,,en,2
+Three,Three,CARDINAL,,,en,2
+millions of dollars,millions of dollars,MONEY,,,en,2
+Monday (Jan 20,Monday (Jan 20,DATE,,,en,2
+Japanese,Japanese,NORP,,,en,2
+3:30 p.m.,3:30 p.m.,TIME,,,en,2
+hours,hours,TIME,,,en,2
+Dozens,Dozens,CARDINAL,,,en,2
+Saratok,Saratok,NORP,,,en,2
+the last 20 years,the last 20 years,DATE,,,en,2
+89,89,CARDINAL,,,en,2
+millions of naira,millions of naira,MONEY,,,en,2
+spring,spring,DATE,,,en,2
+"10,000 Acres","10,000 Acres",QUANTITY,,,en,2
+New Year,New Year,EVENT,,,en,2
+Annual March,Annual March,DATE,,,en,2
+This year,This year,DATE,,,en,2
+"more than 1,000","more than 1,000",CARDINAL,,,en,2
+a harsh week of winter,a harsh week of winter,DATE,,,en,2
+Snowy,Snowy,NORP,,,en,2
+$500M,$500M,MONEY,,,en,1
+500-Year-Old,500-Year-Old,DATE,,,en,1
+the Little Ice Age in 16th century,the Little Ice Age in 16th century,DATE,,,en,1
+Romanian,Romanian,NORP,,,en,1
++2018,+2018,DATE,,,en,1
+"3,000","3,000",CARDINAL,,,en,1
+E360,E360,PRODUCT,,,en,1
+later this week,later this week,DATE,,,en,1
+the next three days,the next three days,DATE,,,en,1
+1540,1540,CARDINAL,,,en,1
+"Feb. 4, 2024","Feb. 4, 2024",DATE,,,en,1
+this winter,this winter,DATE,,,en,1
+less than a week,less than a week,DATE,,,en,1
+30-foot,30-foot,QUANTITY,,,en,1
+early October,early October,DATE,,,en,1
+"Feb. 11, 2025","Feb. 11, 2025",DATE,,,en,1
+At least 14,At least 14,CARDINAL,,,en,1
+27,27,CARDINAL,,,en,1
+winter storm days,winter storm days,DATE,,,en,1
+At least 15,At least 15,CARDINAL,,,en,1
+700,700,CARDINAL,,,en,1
+Capitol,Capitol,FAC,,,en,1
+at least 15,at least 15,CARDINAL,,,en,1
+$1.4 trillion,$1.4 trillion,MONEY,,,en,1
+$1.2 million,$1.2 million,MONEY,,,en,1
+Beavers Complete,Beavers Complete,NORP,,,en,1
 About half,About half,CARDINAL,,,en,1
-Democratic,Democratic,NORP,,,en,1
-Project 25,Project 25,LAW,,,en,1
-less than half,less than half,CARDINAL,,,en,1
-the past few weeks,the past few weeks,DATE,,,en,1
+CBS Mornings,CBS Mornings,WORK_OF_ART,,,en,1
+"16,000","16,000",CARDINAL,,,en,1
 days ago,days ago,DATE,,,en,1
 100 metres,100 metres,QUANTITY,,,en,1
 Arctic Air,Arctic Air,FAC,,,en,1
-at least one,at least one,CARDINAL,,,en,1
-"January 23, 2025","January 23, 2025",DATE,,,en,1
-This week,This week,DATE,,,en,1
-"Trump ""Flooding the Zone","Trump ""Flooding the Zone",PRODUCT,,,en,1
-Project 2025,Project 2025,LAW,,,en,1
-Hurricane Helene's,Hurricane Helene's,EVENT,,,en,1
-Jalan Seaview,Jalan Seaview,FAC,,,en,1
 Next Week,Next Week,DATE,,,en,1
-Hurricane Helene After Being Ordered to Stay Get Fast Food Gift Cards,Hurricane Helene After Being Ordered to Stay Get Fast Food Gift Cards,EVENT,,,en,1
-+4173,+4173,CARDINAL,,,en,1
+100 years,100 years,DATE,,,en,1
+1,1,CARDINAL,,,en,1
+1K Rescues,1K Rescues,QUANTITY,,,en,1
+Elon,Elon,PRODUCT,,,en,1
+the Saturday Night Live 50th,the Saturday Night Live 50th,EVENT,,,en,1
+Saturday Night Live Elon Musks DOGE,Saturday Night Live Elon Musks DOGE,WORK_OF_ART,,,en,1
+moments,moments,TIME,,,en,1
+"nearly 40,000","nearly 40,000",CARDINAL,,,en,1
+Seven-year-old,Seven-year-old,DATE,,,en,1
+Daytona 500,Daytona 500,FAC,,,en,1
+"February 17, 2025","February 17, 2025",DATE,,,en,1
+Midwestern,Midwestern,NORP,,,en,1
+Eight,Eight,CARDINAL,,,en,1
+ninth,ninth,ORDINAL,,,en,1
+Ohio Valley,Ohio Valley,FAC,,,en,1
+At Least 9,At Least 9,CARDINAL,,,en,1
+Deadly Weekend Flooding,Deadly Weekend Flooding,EVENT,,,en,1
+last months,last months,DATE,,,en,1
+KATHMANDU,KATHMANDU,WORK_OF_ART,,,en,1
+week,week,DATE,,,en,1
+February 13,February 13,DATE,,,en,1
+02/12/2025 5:12:57 PM,02/12/2025 5:12:57 PM,DATE,,,en,1
+mid-week,mid-week,DATE,,,en,1
++59601,+59601,CARDINAL,,,en,1
+"February 13, 2025","February 13, 2025",DATE,,,en,1
+24 Hours,24 Hours,TIME,,,en,1
+"Over 1,000","Over 1,000",CARDINAL,,,en,1
+12:56 PM EST,12:56 PM EST,TIME,,,en,1
+last May,last May,DATE,,,en,1
+the USS Harry S. Truman,the USS Harry S. Truman,PRODUCT,,,en,1
+six months,six months,DATE,,,en,1
+10th,10th,ORDINAL,,,en,1
+weekly,weekly,DATE,,,en,1
+last November,last November,DATE,,,en,1
+33-foot,33-foot,QUANTITY,,,en,1
+trillion-dollar,trillion-dollar,MONEY,,,en,1
+CanadaBBC.com At least 12,CanadaBBC.com At least 12,LAW,,,en,1
+Southcrest,Southcrest,NORP,,,en,1
+the Palisades Fire,the Palisades Fire,FAC,,,en,1
+the countylast month,the countylast month,DATE,,,en,1
+"Sunday, Feb. 16, 2025","Sunday, Feb. 16, 2025",DATE,,,en,1
+this season,this season,DATE,,,en,1
+Disastrous Summer Floods Linked,Disastrous Summer Floods Linked,FAC,,,en,1
+more than half,more than half,CARDINAL,,,en,1
+NAZI,NAZI,NORP,,,en,1
+"10,396-acre","10,396-acre",QUANTITY,,,en,1
+At least 17,At least 17,CARDINAL,,,en,1
+19,19,CARDINAL,,,en,1
+One year,One year,DATE,,,en,1
+just 3 years,just 3 years,DATE,,,en,1
+65%,65%,PERCENT,,,en,1
+69%,69%,PERCENT,,,en,1
+2028,2028,CARDINAL,,,en,1
+the next three years,the next three years,DATE,,,en,1
+only 0.6 inches,only 0.6 inches,QUANTITY,,,en,1
+October,October,DATE,,,en,1
+wildfire,wildfire,DATE,,,en,1
+two weeks,two weeks,DATE,,,en,1
+16 days,16 days,DATE,,,en,1
+Wednesday morning,Wednesday morning,TIME,,,en,1
+the week,the week,DATE,,,en,1
+at least 17,at least 17,CARDINAL,,,en,1
+120,120,CARDINAL,,,en,1
+Millions of years ago,Millions of years ago,DATE,,,en,1
+LA Fire,LA Fire,FAC,,,en,1
+4 p.m. to,4 p.m. to,TIME,,,en,1
+4 p.m.,4 p.m.,TIME,,,en,1
+2025-01-25,2025-01-25,DATE,,,en,1
+15-25%,15-25%,PERCENT,,,en,1
+several months,several months,DATE,,,en,1
+4:00 p.m.,4:00 p.m.,TIME,,,en,1
+the wee hours of Saturday,the wee hours of Saturday,TIME,,,en,1
+242,242,CARDINAL,,,en,1
+239,239,CARDINAL,,,en,1
+Eaton Fires,Eaton Fires,FAC,,,en,1
+Over 90%,Over 90%,PERCENT,,,en,1
+17,17,CARDINAL,,,en,1
+Seventeen,Seventeen,CARDINAL,,,en,1
+IM A,IM A,WORK_OF_ART,,,en,1
+Friday (Jan 10) evening,Friday (Jan 10) evening,DATE,,,en,1
+almost $496 billion,almost $496 billion,MONEY,,,en,1
+annually,annually,DATE,,,en,1
+more than 200,more than 200,CARDINAL,,,en,1
+Saudi,Saudi,NORP,,,en,1
+25 percent,25 percent,PERCENT,,,en,1
+three months,three months,DATE,,,en,1
+Nature,Nature,WORK_OF_ART,,,en,1
+the past 30 years,the past 30 years,DATE,,,en,1
+earlier this week,earlier this week,DATE,,,en,1
+69,69,DATE,,,en,1
+Jalan Seaview,Jalan Seaview,FAC,,,en,1
+Jan 10,Jan 10,DATE,,,en,1
+Jan 10 to Jan 11,Jan 10 to Jan 11,DATE,,,en,1
+monthly,monthly,DATE,,,en,1
 mid-December,mid-December,DATE,,,en,1
+daily,daily,DATE,,,en,1
++4173,+4173,CARDINAL,,,en,1
+Hurricane Helene After Being Ordered to Stay Get Fast Food Gift Cards,Hurricane Helene After Being Ordered to Stay Get Fast Food Gift Cards,EVENT,,,en,1
+the New Year's Day,the New Year's Day,DATE,,,en,1
+Platt Bridge,Platt Bridge,FAC,,,en,1
+New Year's Day,New Year's Day,EVENT,,,en,1
+2018,2018,DATE,,,en,1
+3,3,CARDINAL,,,en,1
+Allegiant Stadium,Allegiant Stadium,FAC,,,en,1
+"Saturday, Sept. 7","Saturday, Sept. 7",DATE,,,en,1
+nearly 900 miles,nearly 900 miles,QUANTITY,,,en,1
+age 10,age 10,DATE,,,en,1
+"Dec. 11, 2018","Dec. 11, 2018",DATE,,,en,1
+Accord,Accord,PRODUCT,,,en,1
+1/21/2025,1/21/2025,CARDINAL,,,en,1
+10:30 a.m.,10:30 a.m.,TIME,,,en,1
+Millions,Millions,CARDINAL,,,en,1
+the Florida Keys,the Florida Keys,FAC,,,en,1
+Project 25,Project 25,LAW,,,en,1
+fourth day,fourth day,DATE,,,en,1
+Florence Street,Florence Street,FAC,,,en,1
+a fourth day,a fourth day,DATE,,,en,1
+Super Bowl,Super Bowl,EVENT,,,en,1
+Monday night,Monday night,TIME,,,en,1
+Trump Can Restore Order,Trump Can Restore Order,WORK_OF_ART,,,en,1
+the past few days,the past few days,DATE,,,en,1
 2008.Halfpoint,2008.Halfpoint,CARDINAL,,,en,1
 +2240,+2240,NORP,,,en,1
-Friday (Jan 10) evening,Friday (Jan 10) evening,DATE,,,en,1
 "2/4/2025
  ","2/4/2025
  ",QUANTITY,,,en,1
-Jan 10,Jan 10,DATE,,,en,1
 8:40:45 PM,8:40:45 PM,TIME,,,en,1
 half,half,CARDINAL,,,en,1
 Republicans,Republicans,NORP,,,en,1
-monthly,monthly,DATE,,,en,1
-Jan 10 to Jan 11,Jan 10 to Jan 11,DATE,,,en,1
-Love,Love,WORK_OF_ART,,,en,1
+Hurricane Helene's,Hurricane Helene's,EVENT,,,en,1
+Project 2025,Project 2025,LAW,,,en,1
+July 10,July 10,DATE,,,en,1
+"Trump ""Flooding the Zone","Trump ""Flooding the Zone",PRODUCT,,,en,1
+This week,This week,DATE,,,en,1
+"January 23, 2025","January 23, 2025",DATE,,,en,1
+less than half,less than half,CARDINAL,,,en,1
+Democratic,Democratic,NORP,,,en,1
+the past month,the past month,DATE,,,en,1
+more than a dozen,more than a dozen,CARDINAL,,,en,1
+the past few weeks,the past few weeks,DATE,,,en,1
 last year's,last year's,DATE,,,en,1
-almost $496 billion,almost $496 billion,MONEY,,,en,1
-more than 200,more than 200,CARDINAL,,,en,1
+Saturday Night Look Ahead to A Winter Storm THREAT,Saturday Night Look Ahead to A Winter Storm THREAT,WORK_OF_ART,,,en,1
+Love,Love,WORK_OF_ART,,,en,1
 Nobel Prize,Nobel Prize,WORK_OF_ART,,,en,1
-"3,000","3,000",CARDINAL,,,en,1
-the past 30 years,the past 30 years,DATE,,,en,1
-the next three days,the next three days,DATE,,,en,1
-this winter,this winter,DATE,,,en,1
-Nature,Nature,WORK_OF_ART,,,en,1
-the USS Harry S. Truman,the USS Harry S. Truman,PRODUCT,,,en,1
-12:56 PM EST,12:56 PM EST,TIME,,,en,1
-three months,three months,DATE,,,en,1
-25 percent,25 percent,PERCENT,,,en,1
-Saudi,Saudi,NORP,,,en,1
-"February 13, 2025","February 13, 2025",DATE,,,en,1
-700,700,CARDINAL,,,en,1
-Capitol,Capitol,FAC,,,en,1
-$500M,$500M,MONEY,,,en,1
-"Feb. 11, 2025","Feb. 11, 2025",DATE,,,en,1
-earlier this week,earlier this week,DATE,,,en,1
-"Feb. 4, 2024","Feb. 4, 2024",DATE,,,en,1
-the Palisades Fire,the Palisades Fire,FAC,,,en,1
-Elon,Elon,PRODUCT,,,en,1
-annually,annually,DATE,,,en,1
 Desert,Desert,DATE,,,en,1
 November 16,November 16,DATE,,,en,1
-IM A,IM A,WORK_OF_ART,,,en,1
-last months,last months,DATE,,,en,1
-NAZI,NAZI,NORP,,,en,1
-Disastrous Summer Floods Linked,Disastrous Summer Floods Linked,FAC,,,en,1
-less than a week,less than a week,DATE,,,en,1
-the countylast month,the countylast month,DATE,,,en,1
-Platt Bridge,Platt Bridge,FAC,,,en,1
-69,69,DATE,,,en,1
-E360,E360,PRODUCT,,,en,1
-later this week,later this week,DATE,,,en,1
-30-foot,30-foot,QUANTITY,,,en,1
-the New Year's Day,the New Year's Day,DATE,,,en,1
 a few days,a few days,DATE,,,en,1
-the past few days,the past few days,DATE,,,en,1
+months,months,DATE,,,en,1
+week-long,week-long,DATE,,,en,1
+2,2,CARDINAL,,,en,1
+Jan. 27,Jan. 27,DATE,,,en,1
+Inside with Jen Psaki,Inside with Jen Psaki,WORK_OF_ART,,,en,1
 Just one week,Just one week,DATE,,,en,1
+ten days,ten days,DATE,,,en,1
 the White House,the White House,FAC,,,en,1
 Meet the Press,Meet the Press,WORK_OF_ART,,,en,1
 10.7-degree Fahrenheit,10.7-degree Fahrenheit,QUANTITY,,,en,1
 five-year,five-year,DATE,,,en,1
 "January 29, 2025","January 29, 2025",DATE,,,en,1
-February,February,DATE,,,en,1
-Wednesday morning,Wednesday morning,TIME,,,en,1
 Johnstown Flood M,Johnstown Flood M,FAC,,,en,1
 +1754,+1754,ORDINAL,,,en,1
+Seven,Seven,CARDINAL,,,en,1
+Monthly,Monthly,DATE,,,en,1
+last week,last week,DATE,,,en,1
+Queenslands,Queenslands,NORP,,,en,1
+four months,four months,DATE,,,en,1
+Pan Borneo Highway,Pan Borneo Highway,FAC,,,en,1
+40 years,40 years,DATE,,,en,1
+01-31,01-31,DATE,,,en,1
+Vows Trump Will Only Give Troops the Best Care,Vows Trump Will Only Give Troops the Best Care,WORK_OF_ART,,,en,1
+noon,noon,TIME,,,en,1
+Hinchinbrook S,Hinchinbrook S,FAC,,,en,1
+at least another day,at least another day,DATE,,,en,1
+Led Zeppelin,Led Zeppelin,FAC,,,en,1
+4-8 inch,4-8 inch,TIME,,,en,1
+8 inches,8 inches,QUANTITY,,,en,1
+three days,three days,DATE,,,en,1
 "01/05/2025 - 11:00
 
 
@@ -241,73 +421,5 @@ Johnstown Flood M,Johnstown Flood M,FAC,,,en,1
 
 
  Flooding",DATE,,,en,1
-16 days,16 days,DATE,,,en,1
-two weeks,two weeks,DATE,,,en,1
-wildfire,wildfire,DATE,,,en,1
-nine,nine,CARDINAL,,,en,1
-Monthly,Monthly,DATE,,,en,1
-last week,last week,DATE,,,en,1
-One year,One year,DATE,,,en,1
-ten days,ten days,DATE,,,en,1
-Inside with Jen Psaki,Inside with Jen Psaki,WORK_OF_ART,,,en,1
-the past week,the past week,DATE,,,en,1
-Jan. 27,Jan. 27,DATE,,,en,1
-LA Fire,LA Fire,FAC,,,en,1
-4 p.m. to,4 p.m. to,TIME,,,en,1
-4 p.m.,4 p.m.,TIME,,,en,1
-2025-01-25,2025-01-25,DATE,,,en,1
-15-25%,15-25%,PERCENT,,,en,1
-several months,several months,DATE,,,en,1
-120,120,CARDINAL,,,en,1
-4:00 p.m.,4:00 p.m.,TIME,,,en,1
-the week,the week,DATE,,,en,1
-the wee hours of Saturday,the wee hours of Saturday,TIME,,,en,1
-242,242,CARDINAL,,,en,1
-239,239,CARDINAL,,,en,1
-Eaton Fires,Eaton Fires,FAC,,,en,1
-Over 90%,Over 90%,PERCENT,,,en,1
-10:30 a.m.,10:30 a.m.,TIME,,,en,1
-July 10,July 10,DATE,,,en,1
-"10,396-acre","10,396-acre",QUANTITY,,,en,1
-Queenslands,Queenslands,NORP,,,en,1
-four months,four months,DATE,,,en,1
-Pan Borneo Highway,Pan Borneo Highway,FAC,,,en,1
-19,19,CARDINAL,,,en,1
-Allegiant Stadium,Allegiant Stadium,FAC,,,en,1
-8 inches,8 inches,QUANTITY,,,en,1
-three days,three days,DATE,,,en,1
-more than half,more than half,CARDINAL,,,en,1
 the Bruce Highway,the Bruce Highway,FAC,,,en,1
-3,3,CARDINAL,,,en,1
-2018,2018,DATE,,,en,1
-New Year's Day,New Year's Day,EVENT,,,en,1
-2,2,CARDINAL,,,en,1
-week-long,week-long,DATE,,,en,1
-months,months,DATE,,,en,1
-fourth day,fourth day,DATE,,,en,1
-Florence Street,Florence Street,FAC,,,en,1
-a fourth day,a fourth day,DATE,,,en,1
-Super Bowl,Super Bowl,EVENT,,,en,1
-Monday night,Monday night,TIME,,,en,1
-Trump Can Restore Order,Trump Can Restore Order,WORK_OF_ART,,,en,1
-"Saturday, Sept. 7","Saturday, Sept. 7",DATE,,,en,1
-4-8 inch,4-8 inch,TIME,,,en,1
-age 10,age 10,DATE,,,en,1
-noon,noon,TIME,,,en,1
-40 years,40 years,DATE,,,en,1
-At least 17,At least 17,CARDINAL,,,en,1
-17,17,CARDINAL,,,en,1
-01-31,01-31,DATE,,,en,1
-at least 17,at least 17,CARDINAL,,,en,1
-Vows Trump Will Only Give Troops the Best Care,Vows Trump Will Only Give Troops the Best Care,WORK_OF_ART,,,en,1
-Seventeen,Seventeen,CARDINAL,,,en,1
-daily,daily,DATE,,,en,1
-Led Zeppelin,Led Zeppelin,FAC,,,en,1
-1/21/2025,1/21/2025,CARDINAL,,,en,1
-coming days,coming days,DATE,,,en,1
-Accord,Accord,PRODUCT,,,en,1
-Hinchinbrook S,Hinchinbrook S,FAC,,,en,1
-at least another day,at least another day,DATE,,,en,1
-60 years,60 years,DATE,,,en,1
-"Dec. 11, 2018","Dec. 11, 2018",DATE,,,en,1
-Seven,Seven,CARDINAL,,,en,1
+238,238,CARDINAL,,,en,1

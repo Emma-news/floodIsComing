@@ -1,160 +1,223 @@
 ,phrase,label,sentiment,subjectivity,language,count
+CBS News,CBS News,ORG,0.20384615384615384,0.17948717948717946,en,13
+AP,AP,ORG,-0.046325757575757576,0.21321969696969698,en,10
+Trump,Trump,ORG,-0.031249999999999993,0.3416666666666667,en,8
+CBS Interactive Inc.,CBS Interactive Inc.,ORG,0.01875,0.041666666666666664,en,8
+NWS,NWS,ORG,-0.021614583333333333,0.3888020833333333,en,8
 PPS,PPS,ORG,0.0765625,0.3526041666666666,en,8
-Trump,Trump,ORG,0.0642857142857143,0.3619047619047619,en,7
+KOTA KINABALU,KOTA KINABALU,ORG,0.024285714285714282,0.26222222222222225,en,7
 Bintulu,Bintulu,ORG,-0.2673611111111111,0.42430555555555555,en,6
-CBS News,CBS News,ORG,0.25,0.16666666666666666,en,6
-NWS,NWS,ORG,-0.06527777777777778,0.3361111111111111,en,6
-AP,AP,ORG,-0.012373737373737374,0.14393939393939395,en,5
-The National Weather Service,The National Weather Service,ORG,-0.0541,0.20660000000000003,en,5
+The Fine Print,The Fine Print,ORG,0.043319023569023576,0.3147979797979798,en,5
+the National Weather Service,the National Weather Service,ORG,0.06208333333333334,0.3904166666666667,en,5
 Edu Local Government Area,Edu Local Government Area,ORG,0.08833333333333333,0.12833333333333335,en,5
-Appalachians,Appalachians,ORG,-0.04083333333333334,0.23625000000000002,en,4
-KOTA KINABALU:,KOTA KINABALU:,ORG,0.13229166666666664,0.2604166666666667,en,4
-FEMA,FEMA,ORG,0.0,0.25,en,4
+The National Weather Service,The National Weather Service,ORG,-0.0541,0.20660000000000003,en,5
+FEMA,FEMA,ORG,0.0,0.2,en,5
+Java,Java,ORG,0.15555555555555556,0.22083333333333333,en,4
 Nintendo,Nintendo,ORG,-0.027395833333333335,0.21354166666666669,en,4
 BINTULU,BINTULU,ORG,0.0875,0.38749999999999996,en,4
-Java,Java,ORG,0.15555555555555556,0.22083333333333333,en,4
-AbdulRahman AbdulRazaq,AbdulRahman AbdulRazaq,ORG,0.04375,0.0,en,4
 Hamas,Hamas,ORG,0.0,0.0,en,4
-the National Weather Service,the National Weather Service,ORG,0.030555555555555558,0.2861111111111111,en,3
-CBS Interactive Inc.,CBS Interactive Inc.,ORG,0.0,0.0,en,3
-Switch 2,Switch 2,ORG,-0.03652777777777778,0.28472222222222227,en,3
+AbdulRahman AbdulRazaq,AbdulRahman AbdulRazaq,ORG,0.04375,0.0,en,4
+Éireann,Éireann,ORG,-0.425,0.5,en,4
+KOTA KINABALU:,KOTA KINABALU:,ORG,0.13229166666666664,0.2604166666666667,en,4
+Appalachians,Appalachians,ORG,-0.04083333333333334,0.23625000000000002,en,4
 California Wildfire,California Wildfire,ORG,0.075,0.15833333333333335,en,3
-House,House,ORG,0.6222222222222221,0.3,en,3
+Tropical Cyclone Sean,Tropical Cyclone Sean,ORG,-0.049999999999999996,0.2111111111111111,en,3
 UNICEF,UNICEF,ORG,0.15151515151515152,0.3106060606060606,en,3
+House,House,ORG,0.6222222222222221,0.3,en,3
+Xinhua,Xinhua,ORG,-0.3,0.26666666666666666,en,3
 Videos,Videos,ORG,-0.2333333333333333,0.26666666666666666,en,3
-KOTA KINABALU,KOTA KINABALU,ORG,-0.002777777777777791,0.27499999999999997,en,3
-RALEIGH,RALEIGH,ORG,0.008585858585858586,0.09520202020202019,en,2
-Defense,Defense,ORG,0.32999999999999996,0.12500000000000003,en,2
-The Federal Executive Council,The Federal Executive Council,ORG,0.0,0.0,en,2
-Australia Braces for Life-Threatening Floods,Australia Braces for Life-Threatening Floods,ORG,0.0,0.0,en,2
-NJOY Ace,NJOY Ace,ORG,0.0,0.5,en,2
-ITC,ITC,ORG,0.0,0.5,en,2
-White House Is Flooding the Zone With Legal,White House Is Flooding the Zone With Legal,ORG,0.1,0.05000000000000001,en,2
-Sierra Nevada,Sierra Nevada,ORG,0.25,0.125,en,2
+Switch 2,Switch 2,ORG,-0.03652777777777778,0.28472222222222227,en,3
 South Lanarkshire,South Lanarkshire,ORG,0.05555555555555555,0.1111111111111111,en,2
-NORTH ATTLEBORO,NORTH ATTLEBORO,ORG,-0.2333333333333333,0.2708333333333333,en,2
-Imperial,Imperial,ORG,0.125,0.16666666666666666,en,2
-Marketers Association of Nigeria,Marketers Association of Nigeria,ORG,0.0,0.0,en,2
-the Pan Borneo Highway,the Pan Borneo Highway,ORG,0.175,0.275,en,2
-Storm Herminia,Storm Herminia,ORG,-0.47500000000000003,0.3,en,2
-the House of Representatives,the House of Representatives,ORG,0.09999999999999999,0.05833333333333333,en,2
-Psychological First Aid,Psychological First Aid,ORG,0.03333333333333333,0.15555555555555556,en,2
-Resident's Office,Resident's Office,ORG,0.175,0.275,en,2
-TELUPID,TELUPID,ORG,0.1775,0.27999999999999997,en,2
+BBC,BBC,ORG,-0.08333333333333333,0.21666666666666667,en,2
+Atmospheric River Bringing California Back-To-Back Storms,Atmospheric River Bringing California Back-To-Back Storms,ORG,0.0,0.0,en,2
 the Tule River Tribe,the Tule River Tribe,ORG,0.25,0.125,en,2
+White House Is Flooding the Zone With Legal,White House Is Flooding the Zone With Legal,ORG,0.1,0.05000000000000001,en,2
 Fire and Rescue Department,Fire and Rescue Department,ORG,-0.2,0.07500000000000001,en,2
-Terengganu,Terengganu,ORG,0.020833333333333336,0.20277777777777775,en,2
-Possible Flash Flooding Threat’ Issued,Possible Flash Flooding Threat’ Issued,ORG,0.041666666666666664,0.3055555555555555,en,2
-PUB,PUB,ORG,0.030833333333333327,0.23583333333333334,en,2
+Emergency Management Office,Emergency Management Office,ORG,-0.1,0.2,en,2
+Winter Storm Threat,Winter Storm Threat,ORG,0.09375,0.0,en,2
+Marketers Association of Nigeria,Marketers Association of Nigeria,ORG,0.0,0.0,en,2
+ITC,ITC,ORG,0.0,0.5,en,2
+NJOY Ace,NJOY Ace,ORG,0.0,0.5,en,2
+The Federal Executive Council,The Federal Executive Council,ORG,0.0,0.0,en,2
+SIERRA MADRE,SIERRA MADRE,ORG,-0.06666666666666667,0.21666666666666667,en,2
+Consent Framework,Consent Framework,ORG,-0.125,0.1875,en,2
+RALEIGH,RALEIGH,ORG,0.008585858585858586,0.09520202020202019,en,2
+National Weather Service,National Weather Service,ORG,0.1638888888888889,0.23055555555555554,en,2
+TELUPID,TELUPID,ORG,0.1775,0.27999999999999997,en,2
+KATHMANDU,KATHMANDU,ORG,0.0,0.125,en,2
+Storm Herminia,Storm Herminia,ORG,-0.47500000000000003,0.3,en,2
+Defense,Defense,ORG,0.32999999999999996,0.12500000000000003,en,2
 the Special Court,the Special Court,ORG,0.35714285714285715,0.2857142857142857,en,2
-SK Mengabang Telipot,SK Mengabang Telipot,ORG,0.21250000000000002,0.4,en,2
-TUNDE OYEKOLA,TUNDE OYEKOLA,ORG,0.2962962962962962,0.24722222222222218,en,2
-Hughes Fire Reaches,Hughes Fire Reaches,ORG,0.041666666666666664,0.3055555555555555,en,2
+The Education Ministry,The Education Ministry,ORG,-0.23333333333333328,0.24444444444444446,en,2
+Newsweek,Newsweek,ORG,-0.05,0.0,en,2
+IAB Transparency &,IAB Transparency &,ORG,-0.125,0.1875,en,2
+Eastern,Eastern,ORG,0.0,0.0,en,2
+the Pan Borneo Highway,the Pan Borneo Highway,ORG,0.175,0.275,en,2
 Navy,Navy,ORG,0.05,0.2,en,2
+Australia Braces for Life-Threatening Floods,Australia Braces for Life-Threatening Floods,ORG,0.0,0.0,en,2
+Resident's Office,Resident's Office,ORG,0.175,0.275,en,2
+Imperial,Imperial,ORG,0.125,0.16666666666666666,en,2
+Psychological First Aid,Psychological First Aid,ORG,0.03333333333333333,0.15555555555555556,en,2
+NORTH ATTLEBORO,NORTH ATTLEBORO,ORG,-0.2333333333333333,0.2708333333333333,en,2
+TUNDE OYEKOLA,TUNDE OYEKOLA,ORG,0.2962962962962962,0.24722222222222218,en,2
+Sierra Nevada,Sierra Nevada,ORG,0.25,0.125,en,2
+the House of Representatives,the House of Representatives,ORG,0.09999999999999999,0.05833333333333333,en,2
+the White House,the White House,ORG,0.0,0.0,en,2
+Seagate,Seagate,ORG,0.060760667903525044,0.1702226345083488,en,2
+Techdirt,Techdirt,ORG,0.002380952380952376,0.26607142857142857,en,2
+Hughes Fire Reaches,Hughes Fire Reaches,ORG,0.041666666666666664,0.3055555555555555,en,2
+PUB,PUB,ORG,0.030833333333333327,0.23583333333333334,en,2
+SK Mengabang Telipot,SK Mengabang Telipot,ORG,0.21250000000000002,0.4,en,2
+the Federal Emergency Management Agency,the Federal Emergency Management Agency,ORG,-0.05,0.0,en,2
+Kabosu,Kabosu,ORG,0.275,0.24166666666666667,en,2
+Terengganu,Terengganu,ORG,0.020833333333333336,0.20277777777777775,en,2
+Commonwealth,Commonwealth,ORG,-0.375,0.3125,en,2
 Mecca Floods After Extreme Downpour,Mecca Floods After Extreme Downpour,ORG,-0.03125,0.3333333333333333,en,2
-Éireann,Éireann,ORG,-0.6,0.5,en,2
-Simon AtkinsonBBC News,Simon AtkinsonBBC News,ORG,0.05416666666666667,0.0,en,1
-Atmospheric River Bringing California Back-To-Back Storms,Atmospheric River Bringing California Back-To-Back Storms,ORG,0.0,0.0,en,1
-the Bureau of Meteorology s,the Bureau of Meteorology s,ORG,0.0,0.0,en,1
-California Faces Mudslide Threat From Flooding Rains After Wildfires,California Faces Mudslide Threat From Flooding Rains After Wildfires,ORG,0.0,0.0,en,1
-Los Angeleslocals,Los Angeleslocals,ORG,-0.013333333333333336,0.0,en,1
-Zelia,Zelia,ORG,0.0,0.0,en,1
-Redding,Redding,ORG,0.0,0.0,en,1
-AccuWeather,AccuWeather,ORG,0.375,0.0,en,1
-BBC,BBC,ORG,-0.16666666666666666,0.0,en,1
-Far North Queensland,Far North Queensland,ORG,0.05416666666666667,0.0,en,1
-SIBU,SIBU,ORG,0.1486111111111111,0.0,en,1
-The Bureau of Meteorology,The Bureau of Meteorology,ORG,-0.19999999999999998,0.0,en,1
-USS Harry S. Truman,USS Harry S. Truman,ORG,0.1,0.0,en,1
-CPR,CPR,ORG,0.0,0.0,en,1
-the Bureau of Meteorology,the Bureau of Meteorology,ORG,0.5,0.0,en,1
-N11.5bn,N11.5bn,ORG,0.09999999999999999,0.0,en,1
-ABC Radio Pilbara,ABC Radio Pilbara,ORG,0.5,0.0,en,1
-North Carolina,North Carolina,ORG,0.0,0.0,en,1
-Eastern,Eastern,ORG,0.0,0.0,en,1
-National Guard,National Guard,ORG,0.35656565656565653,0.0,en,1
-KK,KK,ORG,0.049999999999999996,0.0,en,1
-White House,White House,ORG,0.0,0.0,en,1
-NPR,NPR,ORG,0.0,0.0,en,1
-Jos,Jos,ORG,0.04545454545454545,0.0,en,1
-Globalnews.ca,Globalnews.ca,ORG,0.0,0.0,en,1
-Trump Works to Implement,Trump Works to Implement,ORG,0.25,0.0,en,1
-Democrats Struggle to Find Their Footing,Democrats Struggle to Find Their Footing,ORG,0.25,0.0,en,1
-the Democratic National,the Democratic National,ORG,0.25,0.0,en,1
-DNC,DNC,ORG,0.25,0.0,en,1
+an Executive Order,an Executive Order,ORG,0.13333333333333333,0.09999999999999999,en,2
+Possible Flash Flooding Threat’ Issued,Possible Flash Flooding Threat’ Issued,ORG,0.041666666666666664,0.3055555555555555,en,2
 Southern California Braces For 'Biggest Storm of the Year',Southern California Braces For 'Biggest Storm of the Year',ORG,0.0,0.0,en,1
-California Storm Could Bring Flooding,California Storm Could Bring Flooding,ORG,0.0,0.0,en,1
+The Washington Post,The Washington Post,ORG,-0.2,0.0,en,1
+Winter Storm Warnings:,Winter Storm Warnings:,ORG,0.0,0.0,en,1
+the Democratic National,the Democratic National,ORG,0.25,0.0,en,1
+West VirginiaThe Washington Post Watch,West VirginiaThe Washington Post Watch,ORG,-0.03666666666666668,0.0,en,1
+Brutal,Brutal,ORG,-0.42500000000000004,0.0,en,1
+Reuters,Reuters,ORG,-0.4055555555555555,0.0,en,1
+CanadaBBC.com Waterlogged,CanadaBBC.com Waterlogged,ORG,-0.03666666666666668,0.0,en,1
+SARAJEVO,SARAJEVO,ORG,-0.4055555555555555,0.0,en,1
+DNC,DNC,ORG,0.25,0.0,en,1
+NBC,NBC,ORG,0.0,0.0,en,1
+Trump Works to Implement,Trump Works to Implement,ORG,0.25,0.0,en,1
+Winter Warnings:,Winter Warnings:,ORG,0.0,0.0,en,1
+Democrats Struggle to Find Their Footing,Democrats Struggle to Find Their Footing,ORG,0.25,0.0,en,1
+Texas Braces,Texas Braces,ORG,0.0,0.0,en,1
+Winter Storm THREAT and Flood Threat For The Week Ahead,Winter Storm THREAT and Flood Threat For The Week Ahead,ORG,0.0,0.0,en,1
+Winter Storm THREAT,Winter Storm THREAT,ORG,0.35,0.0,en,1
+Globalnews.ca,Globalnews.ca,ORG,0.0,0.0,en,1
+Jos,Jos,ORG,0.04545454545454545,0.0,en,1
+NASA Captures Devastating Tennessee Floods From Space After Winter Storm Drenches Region,NASA Captures Devastating Tennessee Floods From Space After Winter Storm Drenches Region,ORG,-1.0,0.0,en,1
+North Carolina,North Carolina,ORG,0.0,0.0,en,1
 Winter Storms Bring Flooding and ‘Thunder Ice’,Winter Storms Bring Flooding and ‘Thunder Ice’,ORG,0.0,0.0,en,1
-TikTok,TikTok,ORG,-0.7,0.0,en,1
-Videos Show Devastation of Fatal Floods,Videos Show Devastation of Fatal Floods,ORG,0.0,0.0,en,1
-JUUL,JUUL,ORG,0.0,0.0,en,1
-KATHMANDU,KATHMANDU,ORG,0.0,0.0,en,1
-Vapes Favored Democrat Donors,Vapes Favored Democrat Donors,ORG,0.8,0.0,en,1
-Biden,Biden,ORG,0.8,0.0,en,1
-Super Bowl,Super Bowl,ORG,0.16717171717171717,0.0,en,1
-the Kansas City Chiefs,the Kansas City Chiefs,ORG,0.16717171717171717,0.0,en,1
+White House,White House,ORG,0.0,0.0,en,1
+NASA,NASA,ORG,0.005772005772005771,0.0,en,1
+NPR,NPR,ORG,0.0,0.0,en,1
+Pontypridd Foodbank,Pontypridd Foodbank,ORG,0.0,0.0,en,1
+California Storm Could Bring Flooding,California Storm Could Bring Flooding,ORG,0.0,0.0,en,1
+StormsThe New York Times,StormsThe New York Times,ORG,0.002335858585858589,0.0,en,1
+Winter Storm Kills 14,Winter Storm Kills 14,ORG,0.0,0.0,en,1
+fema,fema,ORG,0.0,0.0,en,1
+First Call,First Call,ORG,0.25,0.0,en,1
+Major Flooding and A Few Severe Storms Today,Major Flooding and A Few Severe Storms Today,ORG,-0.06875,0.0,en,1
+AccuWeather,AccuWeather,ORG,0.375,0.0,en,1
+ABC Radio Pilbara,ABC Radio Pilbara,ORG,0.5,0.0,en,1
+the Bureau of Meteorology,the Bureau of Meteorology,ORG,0.5,0.0,en,1
+Zelia,Zelia,ORG,0.0,0.0,en,1
+Los Angeleslocals,Los Angeleslocals,ORG,-0.013333333333333336,0.0,en,1
+the Bureau of Meteorology s,the Bureau of Meteorology s,ORG,0.0,0.0,en,1
+Chago,Chago,ORG,0.1,0.0,en,1
+Th,Th,ORG,0.0,0.0,en,1
+weatherThe Associated Press,weatherThe Associated Press,ORG,0.05555555555555556,0.0,en,1
+USS Harry S. Truman,USS Harry S. Truman,ORG,0.1,0.0,en,1
+The Associated Press,The Associated Press,ORG,-0.24583333333333335,0.0,en,1
+snowWLWT,snowWLWT,ORG,-0.1851851851851852,0.0,en,1
+Daytona Appearance Sparks Anger From Critics,Daytona Appearance Sparks Anger From Critics,ORG,-0.7,0.0,en,1
+Donald Trump,Donald Trump,ORG,0.0,0.0,en,1
+RIVES,RIVES,ORG,-0.2583333333333333,0.0,en,1
+the Kentucky Floods - The New York Times,the Kentucky Floods - The New York Times,ORG,0.13636363636363635,0.0,en,1
+Rain,Rain,ORG,-0.10000000000000002,0.0,en,1
+DelaysGreek,DelaysGreek,ORG,0.1,0.0,en,1
+ec,ec,ORG,0.0,0.0,en,1
+Beavers Complete Czech Government’s,Beavers Complete Czech Government’s,ORG,0.1,0.0,en,1
+the Kentucky FloodsThe New York Times Watch,the Kentucky FloodsThe New York Times Watch,ORG,-0.14090909090909093,0.0,en,1
+First Street,First Street,ORG,0.25,0.0,en,1
+Shiba inu Kabosu,Shiba inu Kabosu,ORG,0.7,0.0,en,1
+Sabah Education Department,Sabah Education Department,ORG,0.0,0.0,en,1
 District Court,District Court,ORG,0.35714285714285715,0.0,en,1
-Walter Reed National Military Medical Center,Walter Reed National Military Medical Center,ORG,-0.04,0.0,en,1
+Kentucky Flooding:,Kentucky Flooding:,ORG,-0.2,0.0,en,1
+Chiba Pref,Chiba Pref,ORG,0.0,0.0,en,1
+Sakura,Sakura,ORG,0.0,0.0,en,1
 The Onion Producers,The Onion Producers,ORG,0.0,0.0,en,1
-Walter Reed Military Hospital,Walter Reed Military Hospital,ORG,0.225,0.0,en,1
-The Trump Inauguration Overflowed With Memes,The Trump Inauguration Overflowed With Memes,ORG,0.0,0.0,en,1
-Dewan Orang Ramai Simpang Halt,Dewan Orang Ramai Simpang Halt,ORG,0.0,0.0,en,1
-the Federal Emergency Management Agency,the Federal Emergency Management Agency,ORG,-0.1,0.0,en,1
-Hughes,Hughes,ORG,0.049999999999999996,0.0,en,1
-Warn Of Flooding,Warn Of Flooding,ORG,0.0,0.0,en,1
-Confront Our Dystopian Present,Confront Our Dystopian Present,ORG,0.0,0.0,en,1
-Los Angeles Fires Force Us,Los Angeles Fires Force Us,ORG,0.0,0.0,en,1
-Situational Awareness,Situational Awareness,ORG,0.16,0.0,en,1
-GIS,GIS,ORG,0.0,0.0,en,1
+KK,KK,ORG,0.049999999999999996,0.0,en,1
+NBC News',NBC News',ORG,0.2,0.0,en,1
 Lif,Lif,ORG,0.33068181818181813,0.0,en,1
-CC,CC,ORG,0.0,0.0,en,1
-Amirhossein Montazeri/Boise State University,Amirhossein Montazeri/Boise State University,ORG,0.0,0.0,en,1
-Indonesias Central Java,Indonesias Central Java,ORG,0.0,0.0,en,1
-AI,AI,ORG,0.033333333333333326,0.0,en,1
-Turkiye,Turkiye,ORG,-0.1875,0.0,en,1
-Telupid,Telupid,ORG,0.0,0.0,en,1
-The Intercept,The Intercept,ORG,0.125,0.0,en,1
-the Consumer Financial Protection Bureau,the Consumer Financial Protection Bureau,ORG,0.1590909090909091,0.0,en,1
-Non-Coastal Flood,Non-Coastal Flood,ORG,0.0,0.0,en,1
-CFPB Finds Properties May,CFPB Finds Properties May,ORG,0.0,0.0,en,1
-UNLV,UNLV,ORG,-0.4,0.0,en,1
-Society,Society,ORG,-0.25,0.0,en,1
-Makerfield MP,Makerfield MP,ORG,0.008348794063079772,0.0,en,1
-Families of Factory Workers,Families of Factory Workers,ORG,0.0,0.0,en,1
-AFP Niharika KULKARNI,AFP Niharika KULKARNI,ORG,-0.1,0.0,en,1
-Jalan Seaview,Jalan Seaview,ORG,-0.055,0.0,en,1
-+554,+554,ORG,0.0,0.0,en,1
-Johor,Johor,ORG,0.0,0.0,en,1
-the News Agency of Nigeria,the News Agency of Nigeria,ORG,0.0,0.0,en,1
+GIS,GIS,ORG,0.0,0.0,en,1
+Situational Awareness,Situational Awareness,ORG,0.16,0.0,en,1
+Los Angeles Fires Force Us,Los Angeles Fires Force Us,ORG,0.0,0.0,en,1
+Confront Our Dystopian Present,Confront Our Dystopian Present,ORG,0.0,0.0,en,1
+Warn Of Flooding,Warn Of Flooding,ORG,0.0,0.0,en,1
+Hughes,Hughes,ORG,0.049999999999999996,0.0,en,1
+Dewan Orang Ramai Simpang Halt,Dewan Orang Ramai Simpang Halt,ORG,0.0,0.0,en,1
 LA Floods,LA Floods,ORG,0.0,0.0,en,1
 Los Angeles Wildfires,Los Angeles Wildfires,ORG,0.0,0.0,en,1
 AbdulRazaq,AbdulRazaq,ORG,0.0,0.0,en,1
 Farmers,Farmers,ORG,0.0,0.0,en,1
-Queenslanders,Queenslanders,ORG,0.2,0.0,en,1
-nytimes.com,nytimes.com,ORG,0.0,0.0,en,1
-Fed,Fed,ORG,-0.05,0.0,en,1
-Pineapple Express,Pineapple Express,ORG,0.09375,0.0,en,1
-Newsweek,Newsweek,ORG,-0.1,0.0,en,1
-the Pineapple Express Storm Heading Toward California,the Pineapple Express Storm Heading Toward California,ORG,0.0,0.0,en,1
-Herminia,Herminia,ORG,0.0,0.0,en,1
-France Force Evacuations and Cut Power to Homes,France Force Evacuations and Cut Power to Homes,ORG,0.0,0.0,en,1
-Selangau,Selangau,ORG,0.0,0.0,en,1
-SERIAN,SERIAN,ORG,0.0,0.0,en,1
-Trumpâs,Trumpâs,ORG,0.0,0.0,en,1
-the Wall Street Journal,the Wall Street Journal,ORG,0.0,0.0,en,1
-Flood Museum Forced To Shut Due,Flood Museum Forced To Shut Due,ORG,-0.21250000000000002,0.0,en,1
-Johnstown Flood Museum,Johnstown Flood Museum,ORG,0.0,0.0,en,1
-Flooding In Museum Forces Flood Museum,Flooding In Museum Forces Flood Museum,ORG,0.0,0.0,en,1
-Political Wire,Political Wire,ORG,0.05,0.0,en,1
-Trump Is Using the Same Playbook,Trump Is Using the Same Playbook,ORG,0.0,0.0,en,1
-Crocodile Tears Over Trump,Crocodile Tears Over Trump,ORG,0.38888888888888884,0.0,en,1
-Crocodile Tears Over Trump and Deportation Are Falling Flat,Crocodile Tears Over Trump and Deportation Are Falling Flat,ORG,-0.025,0.0,en,1
-NBC News',NBC News',ORG,0.2,0.0,en,1
-the White House,the White House,ORG,0.0,0.0,en,1
-Arion Thiboumery,Arion Thiboumery,ORG,-0.15833333333333335,0.0,en,1
-kottke.org,kottke.org,ORG,0.0,0.0,en,1
-Flash Flood Warnings in Place,Flash Flood Warnings in Place,ORG,0.0,0.0,en,1
-Consent Framework,Consent Framework,ORG,-0.125,0.0,en,1
-IAB Transparency &,IAB Transparency &,ORG,-0.125,0.0,en,1
 Climate Crises,Climate Crises,ORG,0.0,0.0,en,1
-Major Flooding and A Few Severe Storms Today,Major Flooding and A Few Severe Storms Today,ORG,-0.06875,0.0,en,1
+the Met Office,the Met Office,ORG,0.10714285714285714,0.0,en,1
+Flash Flood Warnings in Place,Flash Flood Warnings in Place,ORG,0.0,0.0,en,1
+kottke.org,kottke.org,ORG,0.0,0.0,en,1
+"getty
+Investing","getty
+Investing",ORG,0.1,0.0,en,1
+CC,CC,ORG,0.0,0.0,en,1
+Amirhossein Montazeri/Boise State University,Amirhossein Montazeri/Boise State University,ORG,0.0,0.0,en,1
+Indonesias Central Java,Indonesias Central Java,ORG,0.0,0.0,en,1
+Society,Society,ORG,-0.25,0.0,en,1
+the News Agency of Nigeria,the News Agency of Nigeria,ORG,0.0,0.0,en,1
+Johor,Johor,ORG,0.0,0.0,en,1
++554,+554,ORG,0.0,0.0,en,1
+Jalan Seaview,Jalan Seaview,ORG,-0.055,0.0,en,1
+AFP Niharika KULKARNI,AFP Niharika KULKARNI,ORG,-0.1,0.0,en,1
+Families of Factory Workers,Families of Factory Workers,ORG,0.0,0.0,en,1
+Makerfield MP,Makerfield MP,ORG,0.008348794063079772,0.0,en,1
+UNLV,UNLV,ORG,-0.4,0.0,en,1
+Enti,Enti,ORG,0.12152133580705009,0.0,en,1
+CFPB Finds Properties May,CFPB Finds Properties May,ORG,0.0,0.0,en,1
+Non-Coastal Flood,Non-Coastal Flood,ORG,0.0,0.0,en,1
+the Consumer Financial Protection Bureau,the Consumer Financial Protection Bureau,ORG,0.1590909090909091,0.0,en,1
+The Intercept,The Intercept,ORG,0.125,0.0,en,1
+Turkiye,Turkiye,ORG,-0.1875,0.0,en,1
+The Trump Inauguration Overflowed With Memes,The Trump Inauguration Overflowed With Memes,ORG,0.0,0.0,en,1
+AI,AI,ORG,0.033333333333333326,0.0,en,1
+Arion Thiboumery,Arion Thiboumery,ORG,-0.15833333333333335,0.0,en,1
+Deepseek,Deepseek,ORG,-0.3,0.0,en,1
+TikTok,TikTok,ORG,-0.7,0.0,en,1
+Healthcare,Healthcare,ORG,0.0,0.0,en,1
+Walter Reed National Military Medical Center,Walter Reed National Military Medical Center,ORG,-0.04,0.0,en,1
+CPR,CPR,ORG,0.0,0.0,en,1
+N11.5bn,N11.5bn,ORG,0.09999999999999999,0.0,en,1
+Simon AtkinsonBBC News,Simon AtkinsonBBC News,ORG,0.05416666666666667,0.0,en,1
+Far North Queensland,Far North Queensland,ORG,0.05416666666666667,0.0,en,1
+The Bureau of Meteorology,The Bureau of Meteorology,ORG,-0.19999999999999998,0.0,en,1
+SIBU,SIBU,ORG,0.1486111111111111,0.0,en,1
+BBC Australia,BBC Australia,ORG,0.0,0.0,en,1
+Redding,Redding,ORG,0.0,0.0,en,1
+California Faces Mudslide Threat From Flooding Rains After Wildfires,California Faces Mudslide Threat From Flooding Rains After Wildfires,ORG,0.0,0.0,en,1
+National Guard,National Guard,ORG,0.35656565656565653,0.0,en,1
+the Kansas City Chiefs,the Kansas City Chiefs,ORG,0.16717171717171717,0.0,en,1
+Super Bowl,Super Bowl,ORG,0.16717171717171717,0.0,en,1
+Biden,Biden,ORG,0.8,0.0,en,1
+Vapes Favored Democrat Donors,Vapes Favored Democrat Donors,ORG,0.8,0.0,en,1
+JUUL,JUUL,ORG,0.0,0.0,en,1
+Videos Show Devastation of Fatal Floods,Videos Show Devastation of Fatal Floods,ORG,0.0,0.0,en,1
+Walter Reed Military Hospital,Walter Reed Military Hospital,ORG,0.225,0.0,en,1
+Telupid,Telupid,ORG,0.0,0.0,en,1
+Queenslanders,Queenslanders,ORG,0.2,0.0,en,1
+the Wall Street Journal,the Wall Street Journal,ORG,0.0,0.0,en,1
+Crocodile Tears Over Trump and Deportation Are Falling Flat,Crocodile Tears Over Trump and Deportation Are Falling Flat,ORG,-0.025,0.0,en,1
+Crocodile Tears Over Trump,Crocodile Tears Over Trump,ORG,0.38888888888888884,0.0,en,1
+Trump Is Using the Same Playbook,Trump Is Using the Same Playbook,ORG,0.0,0.0,en,1
+Political Wire,Political Wire,ORG,0.05,0.0,en,1
+Flooding In Museum Forces Flood Museum,Flooding In Museum Forces Flood Museum,ORG,0.0,0.0,en,1
+Johnstown Flood Museum,Johnstown Flood Museum,ORG,0.0,0.0,en,1
+Flood Museum Forced To Shut Due,Flood Museum Forced To Shut Due,ORG,-0.21250000000000002,0.0,en,1
+Trumpâs,Trumpâs,ORG,0.0,0.0,en,1
+nytimes.com,nytimes.com,ORG,0.0,0.0,en,1
+SERIAN,SERIAN,ORG,0.0,0.0,en,1
+Selangau,Selangau,ORG,0.0,0.0,en,1
+France Force Evacuations and Cut Power to Homes,France Force Evacuations and Cut Power to Homes,ORG,0.0,0.0,en,1
+Herminia,Herminia,ORG,0.0,0.0,en,1
+the Pineapple Express Storm Heading Toward California,the Pineapple Express Storm Heading Toward California,ORG,0.0,0.0,en,1
+Pineapple Express,Pineapple Express,ORG,0.09375,0.0,en,1
+Fed,Fed,ORG,-0.05,0.0,en,1
+"Storm Bert
+Children","Storm Bert
+Children",ORG,0.0,0.0,en,1
