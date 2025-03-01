@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.306913437006307
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.2909719027302826
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.2878313235399634
-'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.2845878402866489
 'flooding house',en,Impacts,#a89216,#a89216,3,0.2770771586796307
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.2737480359345515
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.2715344184529907
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'deluge',en,Hazard,#4287f5,#315fa8,2,0.2662731901346317
 'flooding death',en,Impacts,#a89216,#87830f,3,0.2657106985217679
 'flooding mudslide',en,Impacts,#a89216,#87831f,2,0.2621865108927356
+'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.2562346735984903
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.2558303827754881
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.2528144121048133
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.2519056810776398
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.2456957392657704
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.2454040906150934
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.2394212628414042
-'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.23795468728462596
+'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.2379546872846259
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.2369660125331334
 'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.2268688277263264
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.2203935832164993
