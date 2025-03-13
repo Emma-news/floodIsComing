@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1859119654694049
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.1702292970199429
 'flooding storm',en,Causes,#679e2c,#61b00c,2,0.153595314856369
+'floods',en,Hazard,#4287f5,#638ed4,3,0.13182818485987163
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.1104767271880745
-'floods',en,Hazard,#4287f5,#638ed4,3,0.0812872043892228
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0688963203159064
