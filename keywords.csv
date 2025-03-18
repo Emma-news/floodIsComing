@@ -21,9 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1802268004660191
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1751622742457962
 'flooding storm',en,Causes,#679e2c,#61b00c,2,0.153595314856369
-'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.14466274468897536
+'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.1446627446889753
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1318281848598716
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.1250608740969087
-'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0939056681098633
+'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0844702978933838
 'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.0769988455525491
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0688963203159064
