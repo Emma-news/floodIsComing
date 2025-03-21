@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1741301317857738
 'flooding climate change',en,Causes,#679e2c,#477515,2,0.1671422054671352
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1657331173346404
-'flooding storm',en,Causes,#679e2c,#61b00c,2,0.1588017076279136
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.13873913148372657
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.132465477985629
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1318281848598716
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.1250608740969087
