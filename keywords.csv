@@ -6,11 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1772250134290787
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1763265928183651
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1739792056201506
-'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1738244012212409
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1723681644283743
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1710517580711841
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1686680978257603
 'flooding climate change',en,Causes,#679e2c,#477515,2,0.1671422054671352
+'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.16000152103805476
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1586871581343018
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1566333797344443
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1526616470179077
