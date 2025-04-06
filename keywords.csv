@@ -16,14 +16,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.1455284346470649
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1451324317448395
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1438409436425877
-'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1432802099950345
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1408603001682531
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1392511299652215
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1379814206959995
+'flooding military',en,Mitigation,#9e3215,#d64118,3,0.12674111849577932
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1226424963909617
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1178507147900958
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.1074031212304243
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1051350603248699
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0864825248421743
-'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.06567635317382284
+'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.0656763531738228
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0472404148828143
