@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1566333797344443
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1563771967054704
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1547896860122746
-'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1533145323473384
 'flooding death',en,Impacts,#a89216,#87830f,3,0.146779138345947
+'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.14482692249523765
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1421178408207614
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1408603001682531
-'flooding storm',en,Causes,#679e2c,#61b00c,3,0.13896256390136144
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1389625639013614
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1379814206959995
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1367523578823465
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1328534516605329
