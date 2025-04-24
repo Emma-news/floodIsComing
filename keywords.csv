@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.179359654102773
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1657406291999945
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1626515577742776
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1617268837944357
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1562318166194479
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.15516305598735702
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1547896860122746
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1471024571996498
 'flooding death',en,Impacts,#a89216,#87830f,3,0.146779138345947
