@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.155163055987357
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1471024571996498
 'flooding death',en,Impacts,#a89216,#87830f,3,0.146779138345947
-'flooding disaster',en,Impacts,#a89216,#87830f,3,0.14627192569664033
-'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1448269224952376
+'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.14666258912095195
+'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1462719256966403
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1442758078105588
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1421178408207614
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1408603001682531
