@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1594670534563589
-'flooding weather',en,Causes,#679e2c,#61d01c,3,0.15715189044646097
+'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1571518904464609
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1544807780243258
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1492276769732979
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1375506989957355
@@ -26,4 +26,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0943562462761394
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0914608647433762
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0449277936671669
-'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0380991640886598
+'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.03268482947536083
