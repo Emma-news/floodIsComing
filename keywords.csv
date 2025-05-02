@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1224274889114529
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1217438288381476
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1217255191463751
-'flooding house',en,Impacts,#a89216,#a89216,3,0.11773942733329437
+'flooding house',en,Impacts,#a89216,#a89216,3,0.1177394273332943
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.117681756101728
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1164825614814045
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1143581594613104
-'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1097031458632005
+'flooding military',en,Mitigation,#9e3215,#d64118,3,0.10729135807462951
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1018395103440826
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0943562462761394
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0914608647433762
