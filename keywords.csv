@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'floods',en,Hazard,#4287f5,#638ed4,3,0.17562153505066197
+'floods',en,Hazard,#4287f5,#638ed4,3,0.1756215350506619
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1594670534563589
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1544807780243258
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1382423068794917
-'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1303060142431017
+'flooding area',en,Hazard,#4287f5,#315fa8,3,0.13580926227905024
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1290489224394883
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1276606084731669
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1272219870961995
