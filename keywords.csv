@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1003295226864688
 'flooding death',en,Impacts,#a89216,#87830f,3,0.0985818368500057
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.0971308072235996
-'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.0959583085779018
-'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.06454139511254005
+'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.08366609229121653
+'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.06454139511254
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.036983283174528
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0347019002669474
