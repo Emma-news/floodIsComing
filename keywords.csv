@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1468393949749319
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1463202306687336
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1383726521976167
+'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1242776280855616
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1156289564731012
-'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.11523646314351478
-'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1129855095124254
+'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.1152364631435147
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1127960540317695
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1112389961501315
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1109964546454104
