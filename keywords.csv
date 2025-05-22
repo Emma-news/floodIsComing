@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1468393949749319
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1406217718074067
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1352382357036145
-'flooding area',en,Hazard,#4287f5,#315fa8,3,0.11715606800213602
+'flooding climate change',en,Causes,#679e2c,#477515,3,0.11730035690378308
+'flooding area',en,Hazard,#4287f5,#315fa8,3,0.117156068002136
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1151271385501467
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1127960540317695
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1112389961501315
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1109964546454104
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1087148055747349
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.108219870043698
-'flooding climate change',en,Causes,#679e2c,#477515,3,0.1078413240884843
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.106756886465516
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1059541721235592
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,2,0.1046344139499221
