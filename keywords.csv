@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1566408008211997
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1512913742784943
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.143280339151642
+'flooding',en,Hazard,#4287f5,#022f78,3,0.13918530844939336
 'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.1260042366160561
-'flooding',en,Hazard,#4287f5,#022f78,3,0.1194537275875216
-'flooding climate change',en,Causes,#679e2c,#477515,3,0.11787796821185755
+'flooding climate change',en,Causes,#679e2c,#477515,3,0.1178779682118575
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1170883459512283
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.117037944709557
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1112389961501315
