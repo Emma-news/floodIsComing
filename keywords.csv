@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1220037854871154
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.1153653040911899
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1134213767276117
+'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.11019574954156841
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1089936530031234
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1089829415421372
 'flooding death',en,Impacts,#a89216,#87830f,3,0.108806877374129
-'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.1077725893002409
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1045666113050253
-'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.10089545031048938
+'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1008954503104893
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,2,0.1006555707320444
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.099469603298693
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.0990747404147879
