@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0847096603743117
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0797194531150961
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.0788647850271487
-'flooding storm',en,Causes,#679e2c,#61b00c,3,0.07641818683515159
-'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0339738648971645
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.0764181868351515
+'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.028878280162589826
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0176927242388738
