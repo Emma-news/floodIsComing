@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1660250238003517
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1622784648387813
-'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1426478006980197
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1312914440370613
+'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.13077619438642019
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1293114293638795
-'flooding',en,Hazard,#4287f5,#022f78,3,0.12217466894011995
+'flooding',en,Hazard,#4287f5,#022f78,3,0.1221746689401199
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1220037854871154
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1206451346149923
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1194069534184001
