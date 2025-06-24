@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0958454761361601
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0952502077639159
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.0886701678654959
-'flooding military',en,Mitigation,#9e3215,#d64118,3,0.0869718937023387
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0847096603743117
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.0794614288098787
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.0788647850271487
+'flooding military',en,Mitigation,#9e3215,#d64118,3,0.07872873464698789
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0641444927237438
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0290470031382013
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0132381521753434
