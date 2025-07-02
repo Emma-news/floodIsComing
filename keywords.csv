@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0983748946092715
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0957975290705747
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.0953596921990676
-'flooding health',en,Impacts,#a89216,#bfba22,3,0.0926405459643461
+'flooding health',en,Impacts,#a89216,#bfba22,3,0.09292531406969418
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.0886701678654959
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.0847096603743117
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0841139965993285
