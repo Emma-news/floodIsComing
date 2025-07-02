@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1105223707474086
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1089936530031234
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1046550813833056
-'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.10342240776131001
+'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.10319710523347712
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0986186371103331
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0983748946092715
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,2,0.0957975290705747
