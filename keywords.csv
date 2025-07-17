@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1071091406871416
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0951404983487568
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0938737694982012
-'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0846537172446432
+'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.08144516433536607
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.0794614288098787
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.0788647850271487
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.0747823232574878
