@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.2250542295240186
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.2192654855270063
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.2175550879492251
-'floods',en,Hazard,#4287f5,#638ed4,3,0.2161346486508858
 'flooding donation',en,Mitigation,#9e3215,#802d16,3,0.2143243978064297
+'floods',en,Hazard,#4287f5,#638ed4,3,0.21146688908052566
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.1778953379647747
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1745061933636613
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1523498025002536
