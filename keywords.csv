@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding death',en,Impacts,#a89216,#87830f,3,0.2021482242331255
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.184803271997554
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1845573984610155
-'flooding donation',en,Mitigation,#9e3215,#802d16,2,0.18218214313546524
+'flooding donation',en,Mitigation,#9e3215,#802d16,2,0.1821821431354652
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.1778953379647747
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1745061933636613
-'floods',en,Hazard,#4287f5,#638ed4,3,0.1695631964344681
+'floods',en,Hazard,#4287f5,#638ed4,3,0.16279507560566153
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1535338930793
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1523498025002536
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1463554189457341
