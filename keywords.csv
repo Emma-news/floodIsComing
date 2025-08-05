@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1035019966656811
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1019943472876058
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.1005865103434602
-'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.088091774685061
+'flooding solidarity',en,Mitigation,#9e3215,#b55035,3,0.09945738991087327
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.0827373822015009
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0812119877124503
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0491994499474041
