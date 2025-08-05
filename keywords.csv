@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.2054898221213852
-'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.19848662883473656
+'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1984866288347365
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1956275839398563
-'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1920708272969219
+'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1877892582023836
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1822776778541087
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.1758982858613678
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1726179232006481
