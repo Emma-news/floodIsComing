@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding climate change',en,Causes,#679e2c,#477515,3,0.19077343366201072
+'flooding climate change',en,Causes,#679e2c,#477515,3,0.1907734336620107
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1846677879139258
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1644485619235638
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1627692484840826
@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1053444236728709
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.100557758836793
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.0987140729766794
-'flooding buildings',en,Impacts,#a89216,#a89216,3,0.0888828771658289
+'flooding buildings',en,Impacts,#a89216,#a89216,3,0.08959577968186366
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0716337111209503
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0253289009167844
