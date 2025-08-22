@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1340883527006611
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1325170817645057
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1273212667661685
-'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1117886720289084
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.1090493437919411
+'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.10727065622457213
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1053935215974238
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1053444236728709
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.100557758836793
