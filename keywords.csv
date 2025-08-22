@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'flooding climate change',en,Causes,#679e2c,#477515,3,0.19077343366201072
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1846677879139258
-'flooding climate change',en,Causes,#679e2c,#477515,3,0.1706015454847185
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1644485619235638
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1627692484840826
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1545675657157658
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1325170817645057
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1273212667661685
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.1090493437919411
-'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.10727065622457213
+'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1072706562245721
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1053935215974238
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1053444236728709
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.100557758836793
