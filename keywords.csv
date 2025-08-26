@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1274512621367983
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.1229847328408181
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.117782049608386
+'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.11267643830375844
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.1072706562245721
-'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.1053444236728709
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.1040924433578102
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.100557758836793
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.0987140729766794
