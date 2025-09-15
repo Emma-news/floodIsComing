@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1643081696544637
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1586207734129907
+'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.14402461920629417
 'floods',en,Hazard,#4287f5,#638ed4,3,0.1377609614289377
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1369867583201351
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1349535433810274
