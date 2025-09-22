@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.129616032167128
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1293288141058055
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1288936005098476
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.12576212930584657
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1239840963088439
 'flooding death',en,Impacts,#a89216,#87830f,3,0.1228017495551493
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.1223563403598195
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1214398086455529
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.1184292611087939
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1180764292293031
