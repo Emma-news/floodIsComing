@@ -18,10 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding precipitation',en,Causes,#679e2c,#679e2c,2,0.115948432038361
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1144019992575433
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1044259958234136
-'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.1001290477864432
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0998267780198011
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.097083341423474
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.0962627828558673
+'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.09460835516393126
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0944439197056687
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.0694376891698313
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0609679294402749
