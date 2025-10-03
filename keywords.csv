@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding',en,Hazard,#4287f5,#022f78,3,0.1603713365005228
-'floods',en,Hazard,#4287f5,#638ed4,3,0.15621748164183144
-'flooding victims',en,Impacts,#a89216,#87830f,3,0.1392667600600866
+'floods',en,Hazard,#4287f5,#638ed4,3,0.1562174816418314
+'flooding victims',en,Impacts,#a89216,#87830f,3,0.1466170660510736
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1349535433810274
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.129616032167128
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.1295540783213594
