@@ -21,9 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.1035517250711596
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.098870670386182
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0943548613168309
-'flooding climate change',en,Causes,#679e2c,#477515,3,0.09299384445054394
+'flooding climate change',en,Causes,#679e2c,#477515,3,0.0929938444505439
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.0874796302099529
-'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0685100457943566
+'flooding atmospheric river',en,Causes,#679e2c,#7db344,1,0.05823403392520311
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0491878535205985
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0344911275388797
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0263431998157091
