@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1205932525420381
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1200524941082088
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.119807067708667
-'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1144186839358167
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1142075950376851
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1079349754821596
+'flooding weather',en,Causes,#679e2c,#61d01c,3,0.10676636589089873
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.100785080732535
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.1006717317107707
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0987414074144616
