@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1374874235904073
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1335979524832939
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1227627566586441
+'flooding disaster',en,Impacts,#a89216,#87830f,3,0.12228921982959398
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.119807067708667
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1170133696607323
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1142075950376851
-'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1137110334129677
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1134002199394394
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1128090292019799
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1127292925224139
-'flooding death',en,Impacts,#a89216,#87830f,3,0.11218367056513646
+'flooding death',en,Impacts,#a89216,#87830f,3,0.1121836705651364
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1100409471131776
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1079349754821596
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1067663658908987
