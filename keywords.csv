@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1374874235904073
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1335979524832939
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1227627566586441
-'flooding disaster',en,Impacts,#a89216,#87830f,3,0.12228921982959398
-'flooding victims',en,Impacts,#a89216,#87830f,3,0.119807067708667
+'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1222892198295939
+'flooding victims',en,Impacts,#a89216,#87830f,3,0.12070009755236695
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1170133696607323
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1142075950376851
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1134002199394394
