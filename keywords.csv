@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1134002199394394
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1128090292019799
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1127292925224139
-'flooding victims',en,Impacts,#a89216,#87830f,3,0.11269239162813674
+'flooding victims',en,Impacts,#a89216,#87830f,3,0.1126923916281367
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1100409471131776
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1079349754821596
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1067663658908987
@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0891240302865017
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.086173236637257
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0630164691883786
+'floods',en,Hazard,#4287f5,#638ed4,3,0.03650723427200695
 'flooding solidarity',en,Mitigation,#9e3215,#b55035,1,0.0359204966683374
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0235264996644049
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0231114316373144
-'floods',en,Hazard,#4287f5,#638ed4,3,0.0157030836355162
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0113174155094295
