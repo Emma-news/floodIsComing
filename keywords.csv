@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.1642673531964235
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1472551977486147
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1353131496107998
+'flooding disaster',en,Impacts,#a89216,#87830f,3,0.13416626082067204
 'flooding landslide',en,Impacts,#a89216,#bfba22,2,0.1227627566586441
-'flooding disaster',en,Impacts,#a89216,#87830f,3,0.1222892198295939
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1170133696607323
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1142075950376851
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1134002199394394
