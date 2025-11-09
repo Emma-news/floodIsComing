@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'deluge',en,Hazard,#4287f5,#315fa8,3,0.17478109448916535
+'deluge',en,Hazard,#4287f5,#315fa8,3,0.1747810944891653
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1674275912127151
-'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1441515086391752
+'flooding storm',en,Causes,#679e2c,#61b00c,3,0.14113337097966255
 'flooding area',en,Hazard,#4287f5,#315fa8,3,0.1393680233277554
 'flooding disaster',en,Impacts,#a89216,#87830f,3,0.134166260820672
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1233670573649372
