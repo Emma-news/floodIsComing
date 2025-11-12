@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.0965171944110376
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.095110008440922
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0934373963022923
-'flooding climate change',en,Causes,#679e2c,#477515,3,0.0890069411416684
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0868145853722178
+'flooding climate change',en,Causes,#679e2c,#477515,3,0.08061581497041814
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0770611593542197
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,2,0.0630164691883786
 'floods',en,Hazard,#4287f5,#638ed4,3,0.0365072342720069
