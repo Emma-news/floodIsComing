@@ -7,19 +7,18 @@ import io
 import glob
 
 import datetime
-#from datetime import date, timedelta, datetime, timezone
 from dateutil import parser
 
 # pip3 install spacy
-# python3 -m spacy download en_core_web_md
-#pip3 install textblob
+# python3 -m spacy download de_core_news_md
+#pip3 install textblob_de
 
 import nltk
 import spacy
-import en_core_web_md
-from textblob import TextBlob
+import de_core_news_md
+from textblob_de import TextBlobDE
 
-nlp = en_core_web_md.load()
+nlp = de_core_news_md.load()
 nltk.download('punkt_tab')
 nltk.download('punkt')
 
@@ -52,6 +51,8 @@ def getNewsDF():
 keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 keywordsDF = keywordsDF.drop(columns = ['language'])
 
+oldLocationsDf = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',')
+
 newsDf = getNewsDF()
 print(newsDf)   
 
@@ -72,7 +73,7 @@ for index, column in newsDf.iterrows():
         print(i)
     quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
     #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlob(quote)
+    blob = TextBlobDE(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
     newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
     try:
@@ -152,7 +153,7 @@ for index, column in objNewsDF.iterrows():
     quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
     lang = column.language 
     #quote = str(column.title)+'. ' +str(column.description)
-    blob = TextBlob(quote)
+    blob = TextBlobDE(quote)
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
@@ -165,7 +166,22 @@ for index, column in objNewsDF.iterrows():
                     indexLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:      
                     indexLocations[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
-                                                   'subjectivity':sentence.sentiment.subjectivity, 'language':lang,'count':1}
+                                                   'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1, 
+                                                   'geonames':-1, 'geotype':None, 'latitude':None, 'longitude':None, 
+                                                   'country':None, 'ipcc':None}
+                    if ('geonames' in oldLocationsDf.columns):
+                      foundInOlDf = oldLocationsDf[oldLocationsDf['phrase']==entity.text]
+                      foundInOlDf = foundInOlDf[foundInOlDf['geonames']>-0.5]
+                      if(not foundInOlDf.empty):
+                        indexLocations[entity.text]['geonames'] = int(foundInOlDf['geonames'].median())
+                        if (foundInOlDf['geonames'].median()>0):
+                          indexLocations[entity.text]['geotype'] = foundInOlDf['geotype'].min()
+                          indexLocations[entity.text]['latitude'] = float(foundInOlDf['latitude'].mean())
+                          indexLocations[entity.text]['longitude'] = float(foundInOlDf['longitude'].mean())
+                          indexLocations[entity.text]['country'] = foundInOlDf['country'].min()
+                          indexLocations[entity.text]['ipcc'] = foundInOlDf['ipcc'].min()
+
+
             elif(entity.label_ in ['PER','PERSON']):
              personText = entity.text
              personText = personText.strip(" .,!?;:'…/-").strip('"')
@@ -203,7 +219,7 @@ for index, column in objNewsDF.iterrows():
                     indexMissing[entity.text] = {'phrase':entity.text, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}  
 
-colSent = ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count']
+colSent = ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count', 'geonames', 'geotype', 'latitude', 'longitude', 'country', 'ipcc']
 indexLocationsDF = pd.DataFrame.from_dict(indexLocations, orient='index', columns=colSent)
 indexLocationsDF['sentiment'] = indexLocationsDF['sentiment']/indexLocationsDF['count']
 indexLocationsDF['subjectivity'] = indexLocationsDF['subjectivity']/indexLocationsDF['count']
