@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.107978776827746
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1079349754821596
 'flooding death',en,Impacts,#a89216,#87830f,3,0.1071136081323171
+'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.10634317024938195
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1062436519485234
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1053129416770196
-'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.0965171944110376
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.095110008440922
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0934373963022923
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0868145853722178
