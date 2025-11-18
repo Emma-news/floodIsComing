@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.3421170506084202
-'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.1654097674795565
+'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.6654097674795565
+'flooding Gaza',en,Hazard,#4287f5,#3b4a63,3,0.8
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1592246626283925
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1501793142168149
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1478683949977134
