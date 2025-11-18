@@ -17,6 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: credocker/crepython:2020.0
+      env:
+        GEONAMES_KEY: ${{ secrets.GEONAMES_KEY }}
       volumes:
         - ${{ github.workspace }}:/cre/python
     steps:
@@ -29,8 +31,12 @@ jobs:
 #          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
+      - name: cp mysecrets.py
+        run: (cp mysecrets.orig.py mysecrets.py)
       - name: Install spacy textblob
         run: (pip3 install spacy==2.2.4 textblob==0.15.3 nltk==3.8)
+      - name: Install geocoder
+        run: (pip3 install geocoder geopandas==0.9)
       - name: Install download en_core_web_md
         run: (python3 -m spacy download en_core_web_md)
       - name: Run entities
