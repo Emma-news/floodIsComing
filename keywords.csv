@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.3421170506084202
-'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.6654097674795565
 'flooding Gaza',en,Hazard,#4287f5,#3b4a63,3,0.8
+'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.6654097674795565
+'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.3421170506084202
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1592246626283925
 'flooding weather',en,Causes,#679e2c,#61d01c,3,0.1501793142168149
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1478683949977134
@@ -10,19 +10,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding evacuation',en,Mitigation,#9e3215,#9e3215,3,0.1236217359308788
 'flooding relief',en,Mitigation,#9e3215,#802d16,3,0.1225681665074232
 'flooding storm',en,Causes,#679e2c,#61b00c,3,0.1215508006237152
-'flooding residents',en,Impacts,#a89216,#87830f,3,0.1174019940603986
 'flooding damage',en,Impacts,#a89216,#c4b03b,3,0.1147149241605242
 'flooding military',en,Mitigation,#9e3215,#d64118,3,0.1095472279033438
 'flooding house',en,Impacts,#a89216,#a89216,3,0.1079349754821596
 'flooding death',en,Impacts,#a89216,#87830f,3,0.1071136081323171
 'flooding buildings',en,Impacts,#a89216,#a89216,3,0.1062436519485234
 'flooding victims',en,Impacts,#a89216,#87830f,3,0.1053129416770196
+'flooding residents',en,Impacts,#a89216,#87830f,3,0.1047538149513388
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1007881640132615
 'flooding precipitation',en,Causes,#679e2c,#679e2c,3,0.0942045195941385
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0934373963022923
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0828363816572942
 'flooding climate change',en,Causes,#679e2c,#477515,3,0.0806158149704181
-'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.07856485025517841
+'flooding donation',en,Mitigation,#9e3215,#802d16,1,0.0785648502551784
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0770611593542197
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0443720018010609
 'floods',en,Hazard,#4287f5,#638ed4,3,0.0365072342720069
