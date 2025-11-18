@@ -16,12 +16,7 @@
 ### GeonamesAPI  
 :white_check_mark: Geonames key exists  
 :white_check_mark: Geonames respone fine  
-:no_entry: Geonames status **failed**:  
-Please recheck the API key and its assignment:  
-1. Please register with username (i.e.: Emma_news) at https://www.geonames.org/login  
-2. Assign the choosen username as new organization secret at https://github.com/organizations/Emma-news/settings/secrets/actions/new  
-   * Name:  **GEONAMES_KEY**   
-   * Value: **Your username here**   
+:no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount   
 
 ---
   
