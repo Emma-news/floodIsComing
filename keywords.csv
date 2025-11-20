@@ -16,7 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding residents',en,Impacts,#a89216,#87830f,3,0.1047538149513388
 'flooding landslide',en,Impacts,#a89216,#bfba22,3,0.1007881640132615
 'flooding death',en,Impacts,#a89216,#87830f,3,0.1000567606221469
-'flooding military',en,Mitigation,#9e3215,#d64118,3,0.0979205437178422
+'flooding military',en,Adaptation,#9e32e5,#d641e8,3,0.0979205437178422
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,2,0.6
 'flooding house',en,Impacts,#a89216,#a89216,3,0.0967025141598356
 'flooding health',en,Impacts,#a89216,#bfba22,3,0.0934373963022923
 'flooding insurance',en,Mitigation,#9e3215,#802d16,3,0.0924831292474097
