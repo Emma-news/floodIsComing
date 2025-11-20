@@ -7,6 +7,7 @@ import io
 #import requests
 import glob
 
+import time
 import datetime
 from dateutil import parser
 
@@ -163,7 +164,7 @@ if(geonamesKey == 'demo_demo_123'):
     print('Please set geonames.org key in file: secrets.py');
     foundGeonames = False
 print(['foundGeonames',foundGeonames])
-foundGeonames = True
+#foundGeonames = True
 
 geomax = 250
 def enrichFromGeonames(df):
@@ -189,6 +190,7 @@ def enrichFromGeonames(df):
             gne = geocoder.geonames(phrase, lang='en', key=geonamesKey)
             if(gne.country):
               df.loc[index,'country'] = gne.country
+              print(gne.country)
             print(['geo',gn.lat,gn.lng, gn])
 
             #(get country) get ipcc
@@ -202,26 +204,32 @@ def enrichFromGeonames(df):
             whichIpcc = geopandas.sjoin(ipccRegions, Coords, how='inner', op='intersects')
             print(whichIpcc)
             if(not whichIpcc.empty):
+                print(['Acronym & Continent',list(whichIpcc['Acronym'])[0],list(whichIpcc['Continent'])[0]])
                 df.loc[index,'ipcc'] = list(whichIpcc['Acronym'])[0]
                 df.loc[index,'continent'] = list(whichIpcc['Continent'])[0]
+                
             whichCountry = geopandas.sjoin(countriesDf, Coords, how='inner', op='intersects')
             print(whichCountry)
             if(not whichCountry.empty):
+                print(['country',list(whichCountry['Country'])[0]])
                 df.loc[index,'country'] = list(whichCountry['Country'])[0]
 
             #get GND
             found = False 
             gnd = searchGndByGeonamesId(gn.geonames_id)
+            print(['searchGndByGeonamesId',gnd]) 
             if(gnd and 'gndId' in gnd):
               df.loc[index,'gnd'] = str(gnd['gndId'])
               found = True
             if(not found):
               gnd = searchGndByNameAndGeo(phrase, float(gn.lat), float(gn.lng))
+              print(['searchGndByNameAndGeo',gnd]) 
               if(gnd and 'gndId' in gnd):
                 df.loc[index,'gnd'] = str(gnd['gndId'])
                 found = True
             if(not found):
               gnd = searchGndByName(phrase)
+              print(['searchGndByName',gnd]) 
               if(gnd and 'gndId' in gnd):
                 df.loc[index,'gnd'] = str(gnd['gndId'])
                 found = True
@@ -390,7 +398,8 @@ for index, column in objNewsDF.iterrows():
 
             if(entity.label_ in ['LOC','GPE']):
                 if(entity.text in indexLocations):
-                    indexLocations[entity.text]['count'] += 1   #TODO   add valid value...
+                    #indexLocations[entity.text]['count'] += 1   
+                    indexLocations[entity.text]['count'] += column.valid   
                     indexLocations[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:      
@@ -421,7 +430,8 @@ for index, column in objNewsDF.iterrows():
              if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
                if(personText.count(' ')>0):
                 if(personText in indexPersons):
-                    indexPersons[personText]['count'] += 1
+                    #indexPersons[personText]['count'] += 1
+                    indexPersons[personText]['count'] += column.valid
                     indexPersons[personText]['sentiment'] += sentence.sentiment.polarity
                     indexPersons[personText]['subjectivity'] += sentence.sentiment.subjectivity
                 else:    
@@ -429,7 +439,8 @@ for index, column in objNewsDF.iterrows():
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}   
             elif('ORG' == entity.label_):
                 if(entity.text in indexOrganizations):
-                    indexOrganizations[entity.text]['count'] += 1
+                    #indexOrganizations[entity.text]['count'] += 1
+                    indexOrganizations[entity.text]['count'] += column.valid
                     indexOrganizations[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexOrganizations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:    
@@ -437,7 +448,8 @@ for index, column in objNewsDF.iterrows():
                                                        'subjectivity':0, 'language':lang, 'count':1} 
             elif('MISC' == entity.label_):
                 if(entity.text in indexMisc):
-                    indexMisc[entity.text]['count'] += 1
+                    #indexMisc[entity.text]['count'] += 1
+                    indexMisc[entity.text]['count'] += column.valid
                     indexMisc[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexMisc[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:         
@@ -445,7 +457,8 @@ for index, column in objNewsDF.iterrows():
                                               'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1} 
             else:
                 if(entity.text in indexMissing):
-                    indexMissing[entity.text]['count'] += 1
+                    #indexMissing[entity.text]['count'] += 1
+                    indexMissing[entity.text]['count'] += column.valid
                     indexMissing[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexMissing[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:
@@ -458,6 +471,7 @@ indexLocationsDF = pd.DataFrame.from_dict(indexLocations, orient='index', column
 indexLocationsDF['sentiment'] = indexLocationsDF['sentiment']/indexLocationsDF['count']
 indexLocationsDF['subjectivity'] = indexLocationsDF['subjectivity']/indexLocationsDF['count']
 indexLocationsDF = indexLocationsDF.sort_values(by=['count'], ascending=False)
+indexLocationsDF = enrichFromGeonames(indexLocationsDF)
 indexLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True, float_format='%.8f')   
  
 colSent = ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count']
