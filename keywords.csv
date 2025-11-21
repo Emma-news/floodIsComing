@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'flooding protection',en,Adaptation,#9e32e5,#d641e8,2,0.6
+'flooding protection',en,Adaptation,#9e32e5,#d641e8,2,0.5190457840909091
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.45583337752847
-'flooding Gaza',en,Hazard,#4287f5,#3b4a63,3,0.40627362622728924
+'flooding Gaza',en,Hazard,#4287f5,#3b4a63,3,0.4062736262272892
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.3421170506084202
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1592246626283925
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1478683949977134
