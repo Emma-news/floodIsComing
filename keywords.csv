@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding protection',en,Adaptation,#9e32e5,#d641e8,2,0.6
-'flooding Gaza',en,Hazard,#4287f5,#3b4a63,3,0.4571267412920671
 'flooding rain',en,Hazard,#4287f5,#3b4a63,3,0.45583337752847
+'flooding Gaza',en,Hazard,#4287f5,#3b4a63,3,0.40627362622728924
 'tidal surge',en,Hazard,#4287f5,#3b4a63,2,0.3421170506084202
 'deluge',en,Hazard,#4287f5,#315fa8,3,0.1592246626283925
 'flooding atmospheric river',en,Causes,#679e2c,#7db344,3,0.1478683949977134
@@ -27,6 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding disruption',en,Impacts,#b8a216,#bfba22,3,0.0770611593542197
 'flooding brigade',en,Mitigation,#9e3215,#802d16,1,0.0604356273001325
 'floods',en,Hazard,#4287f5,#638ed4,3,0.0365072342720069
-'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.03409912392042533
+'flooding solidarity',en,Mitigation,#9e3215,#b55035,2,0.0340991239204253
 'flooding mudslide',en,Impacts,#a89216,#87831f,1,0.0327571061741439
 'flooding',en,Hazard,#4287f5,#022f78,3,0.0235264996644049
